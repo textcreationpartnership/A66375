@@ -1,0 +1,1730 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief exposition of the church-catechism, with proofs from Scripture</title>
+            <title>Book of common prayer. Catechism.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66375</idno>
+            <idno type="STC">Wing W2685</idno>
+            <idno type="STC">ESTC R219553</idno>
+            <idno type="EEBO-CITATION">99831016</idno>
+            <idno type="PROQUEST">99831016</idno>
+            <idno type="VID">35478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35478)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2086:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief exposition of the church-catechism, with proofs from Scripture</title>
+                  <title>Book of common prayer. Catechism.</title>
+                  <author>Church of England.</author>
+                  <author>Williams, John, 1636?-1709.</author>
+               </titleStmt>
+               <extent>[8], 64 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. Roberts for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Williams.</note>
+                  <note>Imprimatur on A1v dated: Decemb. 12. 1688. and signed H. Maurice.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35478:1" rendition="simple:additions"/>
+            <p>A BRIEF EXPOSITION OF THE Church-Catechiſm, WITH Proofs from SCRIPTURE.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>R. Roberts</hi> for the Author. MDCLXXXIX.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:35478:2"/>
+            <p>IMPRIMATUR, <hi>Liber cui Titulus</hi> [A brief Expo<g ref="char:EOLhyphen"/>ſition of the Church-Catechiſm].</p>
+            <closer>
+               <signed>H. Maurice R<hi rend="sup">mo</hi> in Chriſto P. D. Wilhelmo Archiep. Cant. à Sacris.</signed>
+               <date>
+                  <hi>Decemb.</hi> 12. 1688.</date>
+            </closer>
+            <pb facs="tcp:35478:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35478:3"/>
+            <pb facs="tcp:35478:3"/>
+            <head>TO HIS HONOURED FRIEND, THE Reverend Dr. <hi>B<g ref="char:V">Ʋ</g>SBY.</hi>
+            </head>
+            <p>AFter ſo pious a Deſign as you have laid, in Founding and Endow<g ref="char:EOLhyphen"/>ing a Catechetical Lecture in <hi>Weſtminſter-Abbey,</hi> for the Inſtruction of the Youth under your Care, and my Three Years
+<pb facs="tcp:35478:4"/>Employment therein; It may ſeem to be a mean account of it, to publiſh ſuch an Expoſition of our <hi>Church-Catechiſm</hi> as this is. But, ſetting aſide my other endeavours in that way, I am not concerned to offer this to you, who, I know, eſtimate things, not according to their Bulk, but their <g ref="char:V">Ʋ</g>ſe; and if by the brevity, order, and perſpicuity aim'd at in this Expoſition, I have contri<g ref="char:EOLhyphen"/>buted to ſo good an end, I am ſure not to fail of your Approbation; and ſhall be encouraged to proceed
+<pb facs="tcp:35478:4"/>in the finiſhing and publiſhing my larger Expoſition for the uſe of thoſe who have been before in<g ref="char:EOLhyphen"/>ſtructed in this. I am,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Faithful Servant, John Williams.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:35478:5"/>
+            <pb n="1" facs="tcp:35478:5"/>
+            <head>A BRIEF EXPOSITION OF THE CHURCH-CATECHISM.</head>
+            <head type="sub">¶ A Catechiſm, <hi>that is to ſay,</hi> an Inſtruction to be learned of every Perſon, before he be brought to be Confirmed by the Biſhop.</head>
+            <div n="1" type="part">
+               <head>PART I. <hi>Of the Baptiſmal Vow.</hi>
+               </head>
+               <p>Q. <hi>What is your Name?</hi>
+               </p>
+               <p>A. <hi>N.</hi> or <hi>M.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why is this Queſtion firſt asked, <hi>What is your Name?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To put me in mind of the Faith I profeſſed at my Baptiſm, when I firſt received my Chri<g ref="char:EOLhyphen"/>ſtian Name.</p>
+               <p>Q. <hi>Who gave you this Name?</hi>
+               </p>
+               <p>A. <hi>My God-Fathers, and God-Mo<g ref="char:EOLhyphen"/>thers in my Baptiſm, wherein I was made a member of Chriſt, the Child of God, and an Inheritor of the Kingdom of Heaven.</hi>
+               </p>
+               <pb n="2" facs="tcp:35478:6"/>
+               <p>Q. Why is it asked, <hi>Who gave you this Name?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To mind me of the Duty I then promiſed by my God-Fathers to perform.</p>
+               <p>
+                  <hi>Q.</hi> Why was your Chriſtian Name given to you in <hi>Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe I was then dedicated to Chriſt, and taken into Covenant with him. For the like reaſon the proper Name was given at Circumci<g ref="char:EOLhyphen"/>ſion; as to <hi>Iſaac, Gen.</hi> 21.3, 4. to <hi>John Baptiſt, Luk.</hi> 1.59. to our Saviour, <hi>Luk.</hi> 2.21.</p>
+               <p>
+                  <hi>Q.</hi> Why was your Name given you by <hi>God-Fathers?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> As according to the ancient practice in the <hi>Jewiſh (a)</hi> and Chriſtian Church, they became Wit<g ref="char:EOLhyphen"/>neſſes and Sureties for my better performing what was then requir'd of me, <hi>(a) Iſa.</hi> 8.2, 3.</p>
+               <p>
+                  <hi>Q.</hi> What are the Privileges you receive and are admitted to by Baptiſm?</p>
+               <p>
+                  <hi>A.</hi> The Privileges are three, as I was there<g ref="char:EOLhyphen"/>by made, 1. A Member of Chriſt: 2. The child of God: 3. An Inheritor of the Kingdom of Heaven.</p>
+               <p>
+                  <hi>Q.</hi> Why are you ſaid to be <hi>made</hi> a Member of Chriſt, <hi>&amp;c?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe I was not ſo born <hi>(a),</hi> but <hi>made</hi> by Baptiſm <hi>(b); (a) Joh.</hi> 1.12, 13. <hi>As many as received him, to them he gave power</hi> [privilege] <hi>to become the Sons of God,—which were born not of blood, nor of the will of fleſh, nor of the will of man, but of God. (b)</hi> Joh. 3.5, 6. <hi>Except a man be born of Water, and of the Spirit, he cannot enter into the Kingdom of God. That which is born of the fleſh, is fleſh,</hi> &amp;c.</p>
+               <p>
+                  <hi>Q.</hi> What is it to be <hi>a Member of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It's to be a member of Chriſt's Church:
+<pb n="3" facs="tcp:35478:6"/>1 <hi>Cor.</hi> 12.12. <hi>As the body is one, and hath many members, and all the members of that one body, being many, are one body: ſo alſo is Chriſt,</hi> or the Chri<g ref="char:EOLhyphen"/>ſtian Church. <hi>Verſ.</hi> 27. <hi>Ye are the body of Chriſt, and members in particular.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why is a Member of Chriſt's Church ſaid to be <hi>a member of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe the Church is the Myſtical body of Chriſt <hi>(a),</hi> and Chriſt is the head <hi>(b)</hi> of that body: <hi>(a) Epheſ.</hi> 1.22, 23. <hi>The Church which is his body. (b)</hi> Epheſ. 5.23. <hi>Chriſt is the head of the Church.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is it to be <hi>a Child of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It's to be in Covenant with God. So the <hi>Jews</hi> were <hi>the children of God (a),</hi> and <hi>of the Cove<g ref="char:EOLhyphen"/>nant (b): (a) Deut.</hi> 14.1. <hi>(b) Act.</hi> 3.25.</p>
+               <p>
+                  <hi>Q.</hi> Why are you firſt ſaid to be <hi>a Member of Chriſt,</hi> and then <hi>a Child of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it's through Chriſt I was made a child of God: <hi>Epheſ.</hi> 1.5. <hi>Having predeſtinated us to the Adoption of children, by Jeſus Chriſt to himſelf.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is it to be <hi>an Inheritor of the Kingdom of Heaven?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It's to be ſo by promiſe. Thus we are ſaid to <hi>have</hi> what God has promiſed, and which we have a title to upon that promiſe: <hi>Joh.</hi> 3.36. <hi>He that believeth on the Son, hath everlaſting life.</hi>
+               </p>
+               <p>Q <hi>What did your God-Fathers and God-Mothers then for you?</hi>
+               </p>
+               <p>A. <hi>They did promiſe and vow three things in my name: firſt, that I ſhould renounce the Devil and all his works, the pomps and banity of this wiched World, and all the ſin<g ref="char:EOLhyphen"/>ful luſts of the fleſh. Secondly, that
+<pb n="4" facs="tcp:35478:7"/>I ſhould believe all the Articles of the Chriſtian Faith. And thirdly, that I ſhould keep Gods holy Will and Commandments, and walk in the ſame all the days of my life.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are you obliged to <hi>renounce?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The three ſpiritual enemies to my preſent welfare and future happineſs.</p>
+               <p>
+                  <hi>Q.</hi> What are they?</p>
+               <p>
+                  <hi>A.</hi> The Devil, the world, and the fleſh.</p>
+               <p>
+                  <hi>Q.</hi> What is it to <hi>renounce</hi> them?</p>
+               <p>
+                  <hi>A.</hi> It's inwardly to deteſt and actually to re<g ref="char:EOLhyphen"/>ject them, <hi>ſo as not to follow nor be led by them.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the Devil?</p>
+               <p>
+                  <hi>A.</hi> The Devil is the name of all the fallen and loſt Angels <hi>(a),</hi> of which one is the Prince <hi>(b): (a)</hi> 2 <hi>Pet.</hi> 2.4. <hi>God ſpared not the Angels that ſinned, but caſt them down to Hell. (b)</hi> Mat. 12.24, 27. <hi>Beelzebub, the Prince of the Devils.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why are you in the firſt place requir'd to <hi>renounce the Devil?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe he is an irreconcilable enemy to our Saviour <hi>(a),</hi> and a very dangerous enemy to us <hi>(b): (a) Revel.</hi> 12.7. <hi>There was war in Hea<g ref="char:EOLhyphen"/>ven, Michael and his Angels fought againſt the Dra<g ref="char:EOLhyphen"/>gon, and the Dragon fought and his Angels. (b)</hi> 2 Cor. 6.15. 1 Pet. 5.8. <hi>Your adverſary the Devil as a roaring Lion, walketh about, ſeeking whom he may de<g ref="char:EOLhyphen"/>vour.</hi>
+               </p>
+               <p>Q. What is meant by <hi>the works of the Devil?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All ſin: 1 <hi>Joh.</hi> 3.8. <hi>The Son of God was manifeſted that he might deſtroy the works of the Devil.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why is ſin call'd <hi>the work of the Devil?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe he firſt ſinned <hi>(a),</hi> then ſeduced man
+<pb n="5" facs="tcp:35478:7"/>to ſin <hi>(b),</hi> and doth ſtill tempt to it <hi>(c): (a)</hi> 1 <hi>Joh.</hi> 3.8. <hi>He that committeth ſin is of the Devil; for the Devil ſinneth from the beginning. (b)</hi> 2 Cor. 11.3. <hi>The Ser<g ref="char:EOLhyphen"/>pent beguiled Eve through his ſubtilty. (c)</hi> Eph. 6.11, 12. <hi>Put on the whole armour of God, that ye may be able to ſtand againſt the wiles of the Devil. For we wreſtle not againſt fleſh and blood, but againſt Princi<g ref="char:EOLhyphen"/>palities,</hi> &amp;c.</p>
+               <p>
+                  <hi>Q.</hi> What is the ſecond enemy you are to re<g ref="char:EOLhyphen"/>nounce?</p>
+               <p>A. <hi>This wicked world (a),</hi> with its <hi>pomps and vani<g ref="char:EOLhyphen"/>ty: (a)</hi> Gal. 1.4. <hi>Who gave himſelf for our ſins, that he might deliver us from this preſent evil world.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why do you call it, <hi>this wicked world?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Not from any evil in the world it ſelf, (for it was made very good), <hi>(a)</hi> but becauſe of the evil it tempts to <hi>(b);</hi> and the evil uſe it's put to by bad men: <hi>(a) Gen.</hi> 1.31. <hi>God ſaw every thing that he had made; and behold it was very good. (b)</hi> 1 Joh. 2.15. <hi>Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him,</hi> Jam. 4.1, 2, 4.</p>
+               <p>
+                  <hi>Q.</hi> What is meant by <hi>Pomps?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Honour and worldly Glory, <hi>Act.</hi> 25.23. <hi>Agrippa came with great pomp.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is it to renounce <hi>the Pomps</hi> of this world?</p>
+               <p>
+                  <hi>A.</hi> It's to refrain from all immoderate deſires after the honour and glory of the world, and from all pride and oſtentation in what any one enjoys of it: 1 <hi>Joh.</hi> 2.16. <hi>The pride of life is not of the Father, but is of the world.</hi> Phil. 2.3. <hi>Let nothing be done through vain glory, but in lowlineſs of mind let each eſteem other better than themſelves.</hi>
+               </p>
+               <pb n="6" facs="tcp:35478:8"/>
+               <p>
+                  <hi>Q.</hi> What do you underſtand by the <hi>Vanity</hi> of this world, which you are to renounce?</p>
+               <p>
+                  <hi>A.</hi> Covetouſneſs <hi>(a),</hi> or the <hi>luſt of the eye,</hi> 1 Joh. 2.16. <hi>(a)</hi> Eccleſ. 4.7, 8. <hi>I ſaw vanity under the Sun, there is one alone, and there is not a ſecond, yea, he hath neither child nor brother, yet is there no end of all his labour, neither is his eye ſatisfied with riches,</hi> &amp;c. 1 Tim. 6.9, 10. <hi>They that will be rich, fall into temp<g ref="char:EOLhyphen"/>tation and a ſnare, and into many fooliſh and burtful luſts,</hi> &amp;c.</p>
+               <p>
+                  <hi>Q.</hi> What is the third enemy you are to re<g ref="char:EOLhyphen"/>nounce?</p>
+               <p>
+                  <hi>A. The ſinful luſts of the fleſh,</hi> 1 Joh. 2.16.</p>
+               <p>
+                  <hi>Q.</hi> What do you underſtand by <hi>the ſinful luſts of the fleſh?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All unlawful pleaſures to which we are provoked by our ſenſual inclinations, ſuch as un<g ref="char:EOLhyphen"/>cleanneſs, drunkenneſs, <hi>&amp;c.</hi> Gal. 5.19, 21. <hi>The works of the fleſh are manifeſt, which are theſe, adul<g ref="char:EOLhyphen"/>tery, fornication,</hi> &amp;c.</p>
+               <p>
+                  <hi>Q.</hi> What is the ſecond Duty you were in your Baptiſm obliged to perform?</p>
+               <p>
+                  <hi>A. To believe all the Articles of the Chriſtian Faith?</hi>
+               </p>
+               <stage>Of this ſee the Belief.</stage>
+               <p>
+                  <hi>Q.</hi> What is the third Duty then required of you?</p>
+               <p>
+                  <hi>A. To keep God's holy Will and Commandments, and to walk in the ſame all the days of my life.</hi>
+               </p>
+               <stage>Of this ſee the Decalogue.</stage>
+               <p>Q. <hi>Doſt thou not think that thou art bound to believe and to do, as they have promiſed for thee?</hi>
+               </p>
+               <p>A. <hi>Yes verily, and by God's help ſo I will: And I heartily thank our
+<pb n="7" facs="tcp:35478:8"/>Heavenly father, that he hath cal<g ref="char:EOLhyphen"/>led me to this ſtate of Salvation, through Jeſus Chriſt our Saviour. And I pray to God to give me his grace, that I may continue in the ſame unto my lives end.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why do you think your ſelf bound thus <hi>to believe and do</hi> what they promiſed for thee?</p>
+               <p>
+                  <hi>A.</hi> Becauſe what was then promiſed, was in my name, and by Proxies that acted in my ſtead.</p>
+               <p>
+                  <hi>Q.</hi> Are you reſolved to do according to what they promiſed for you?</p>
+               <p>
+                  <hi>A.</hi> Yes, <hi>by God's help,</hi> or elſe I muſt expect to forfeit the bleſſings belonging to that ſtate which I was then called and admitted into. <hi>Heb.</hi> 2.3. <hi>How ſhall we eſcape, if we neglect ſo great Sal<g ref="char:EOLhyphen"/>vation?</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is that ſtate?</p>
+               <p>A. <hi>A ſtate of Salvation.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why do you call it a <hi>ſtate of Salvation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe I have thereby all the means neceſ<g ref="char:EOLhyphen"/>ſary to Salvation, <hi>Rom.</hi> 1.16. <hi>The Goſpel is the power of God unto Salvation to every one that believeth.</hi> 2 Tim. 3.15. <hi>From a child thou haſt known the holy Scriptures, which are able to make thee wiſe unto Sal<g ref="char:EOLhyphen"/>vation.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How came you into this ſtate?</p>
+               <p>
+                  <hi>A. Our Heavenly Father called me to it</hi> through Jeſus Chriſt, and inſtated me into it by Baptiſm. <hi>Tit.</hi> 3.5. <hi>Not by works of righteouſneſs which we have done, but according to his mercy he ſaved us by the waſhing of regeneration, and renewing of the Holy Ghoſt.</hi>
+               </p>
+               <pb n="8" facs="tcp:35478:9" rendition="simple:additions"/>
+               <p>
+                  <hi>Q.</hi> How do you think to be enabled to do, and to continue in the performance of what was then required?</p>
+               <p>
+                  <hi>A.</hi> I depend upon the Grace of God <hi>(a)</hi> to pre<g ref="char:EOLhyphen"/>vent <hi>(b),</hi> aſſiſt <hi>(c),</hi> and confirm <hi>(d)</hi> me in it: <hi>(a)</hi> 2 <hi>Cor.</hi> 3.5. <hi>Not that we are ſufficient of our ſelves to think any thing as of our ſelves, but our ſufficiency is of God.</hi> Phil. 2.13. <hi>It is God which worketh in you (b) to will (c) and to do. (d)</hi> Phil. 1.6. <hi>Being confident of this very thing, that he which hath begun a good work in you, will perform it.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How do you think to obtain God's Grace?</p>
+               <p>
+                  <hi>A.</hi> I will <hi>pray unto God</hi> for it, <hi>Luk.</hi> 11.9, 10, 13. <hi>Ask and it ſhall be given; ſeek and ye ſhall find; knock and it ſhall be opened unto you,</hi> &amp;c. <hi>If ye being evil know how to give good gifts unto your children, how much more will your heavenly Father give the holy Spirit to them that ask him?</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>PART. II. <hi>Of the Creed or Belief.</hi>
+               </head>
+               <p>
+                  <hi>Q.</hi> WHat was the ſecond Duty undertaken in your name?</p>
+               <p>
+                  <hi>A. That I ſhould believe all the Articles of the Chriſtian Faith.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What do you mean by <hi>the Chriſtian Faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Doctrine revealed by Chriſt, and con<g ref="char:EOLhyphen"/>tained in the Holy scripture, Acts 24.24. <hi>Fe<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> heard Paul concerning the Faith in Chriſt,</hi> or the Chriſtian Doctrine.</p>
+               <p>
+                  <hi>Q.</hi> What do you mean by <hi>the Articles</hi> of the Chriſtian Faith?</p>
+               <pb n="9" facs="tcp:35478:9" rendition="simple:additions"/>
+               <p>
+                  <hi>A.</hi> I thereby mean ſuch Points of Chriſtian Doctrine, as are moſt neceſſary to be believed, Heb. 6.1. <hi>The Principles of the Doctrine of Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Where are thoſe <hi>Articles</hi> briefly contain'd?</p>
+               <p>
+                  <hi>A.</hi> In the <hi>Apoſtles Creed.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why is it called the <hi>Apoſtles Creed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Partly, becauſe of the Apoſtolical Doctrine contained in it; and partly, becauſe it was in the main Branches of it compoſed in the Apoſtolical times; as we read of <hi>a form of ſound words,</hi> 2 Tim. 1.13.</p>
+               <p>
+                  <hi>Rehearſe the Articles of thy Belief.</hi>
+                  <note place="margin">The Creed.</note>
+               </p>
+               <p>A. 1. <hi>I believe in God the father Almighty, Maker of Deaven and Earth.</hi> 2. <hi>And in Jeſus Chriſt his only Son our Lord.</hi> 3. <hi>Who was conceived by the Holy Ghoſt, Born of the Virgin</hi> Mary. 4. <hi>Suffered un<g ref="char:EOLhyphen"/>der</hi> Pontius Pilate, <hi>was crucified, dead and buried, He deſcended into Hell.</hi> 5. <hi>The third day he roſe again from the Dead.</hi> 6. <hi>He aſcended into Hea<g ref="char:EOLhyphen"/>ven, and ſitteth on the right hand of God the father Almighty.</hi> 7. <hi>from thence he ſhall come to judge the Duich and the Dead.</hi> 8. <hi>I believe in the Holy Ghoſt,</hi> 9. <hi>The Holy Ca<g ref="char:EOLhyphen"/>tholick Church, the Communion of Saints.</hi> 10. <hi>The forgiveneſs of Sins.</hi> 11. <hi>The Reſurrection of the Body,</hi> 12. <hi>And the Life everlaſting.</hi> Amen.</p>
+               <pb n="10" facs="tcp:35478:10"/>
+               <p>Q. <hi>What doſt thou chiefly learn in theſe Articles of thy Belief?</hi>
+               </p>
+               <p>A. <hi>Firſt, I learn to believe in God the father, who hath made me and all the World.</hi>
+               </p>
+               <p>
+                  <hi>Secondly, In God the Son, who hath redeemed me and all mankind.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, In God the Holy Ghoſt, who ſanctifieth me, and all the elect People of God.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What do you obſerve from theſe three parts, into which the Creed is divided?</p>
+               <p>
+                  <hi>A.</hi> 1. I obſerve a diſtinction of Perſons, the Father, the Son, and the Holy Ghoſt.</p>
+               <p n="2">2. A Unity of Eſſence, or ſameneſs of Nature; the Father is God, the Son is God, and the Holy Ghoſt is God.</p>
+               <p n="3">3. A difference of Offices or Operations. The Father <hi>Creates,</hi> the Son <hi>Redeems,</hi> and the Holy Ghoſt <hi>Sanctifieth.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doth the firſt Branch of the Creed reſpect?</p>
+               <p>
+                  <hi>A.</hi> God the Father, and his Work of Creation.</p>
+               <p>
+                  <hi>Q.</hi> What is <hi>God?</hi>
+                  <note place="margin">Article 1. <hi>I believe in God.</hi>
+                  </note>
+               </p>
+               <p>
+                  <hi>A.</hi> God is an Infinite <hi>(a),</hi> Eternal <hi>(b),</hi> and In<g ref="char:EOLhyphen"/>comprehenſible Being <hi>(c),</hi> having all Perfection in and of himſelf <hi>(d). (a)</hi> 1 King. 8.27. <hi>Behold, the heaven, the heaven of heavens cannot contain thee, (b)</hi> Pſal. 90.2. <hi>From everlaſting to everlaſting, thou art God. (c)</hi> Job 11.7. <hi>Canſt thou by ſearching find out God? Canſt thou find out the Almighty unto perfection? (d)</hi> Exod. 3.14. <hi>I am that I am.</hi>
+               </p>
+               <pb n="11" facs="tcp:35478:10"/>
+               <p>
+                  <hi>Q.</hi> How is God ſaid to be a <hi>Father?</hi>
+                  <note place="margin">The Fa<g ref="char:EOLhyphen"/>ther</note>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. As he created all things, 1 Cor. 8.6. <hi>God the Father, of whom are all things.</hi>
+               </p>
+               <p n="2">2. As he is the Father of Chriſt, 2 Cor. 1.3. <hi>Bleſſed be God, even the Father of our Lord Jeſus Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What do you underſtand by <hi>Almighty?</hi>
+                  <note place="margin">Almighty,</note>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. That God hath all Power in himſelf, without deriving it from any other <hi>(a),</hi> and that all Power is derived from him <hi>(b). (a)</hi> Pſal. 62.11. <hi>Power belongeth unto God. (b)</hi> 2 Chron. 20.12. <hi>O our God, we have no might, but our eyes are upon thee.</hi>
+               </p>
+               <p n="2">2. That he hath the Power of doing all things, Matth. 19.26. <hi>With God all things are poſſible.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Are there not ſome things impoſſible to God?</p>
+               <p>
+                  <hi>A.</hi> Nothing, but what, either he could not be God if it was poſſible to him; or elſe, what in the Nature of it implies a Contradiction.</p>
+               <p>
+                  <hi>Q.</hi> What are thoſe things which he could not be God if they are poſſible to him?</p>
+               <p>
+                  <hi>A.</hi> 1. Such things as are Evil, Hab. 1.13. <hi>Thou canſt not look on iniquity.</hi> Tit. 1.2. <hi>God that cannot lie.</hi>
+               </p>
+               <p n="2">2. Such as imply Infirmity, as to be Ignorant, or Mortal. Heb. 4.13. <hi>Neither is there any Creature that is not manifeſt in his ſight; but all things are na<g ref="char:EOLhyphen"/>ked, and opened unto the eyes of him with whom we have to do.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are the things which in their Nature imply a Contradiction?</p>
+               <p>
+                  <hi>A.</hi> Such as theſe, To be, and not to be at the ſame time; to be a Wafer, and the Body of Chriſt. That the Body of Chriſt ſhould be in Heaven, and yet at the ſame time be in the Earth.
+<pb n="12" facs="tcp:35478:11"/>To be one diſtinct Body, and yet to be many Bo<g ref="char:EOLhyphen"/>dies, as in the Hoſt.</p>
+               <p>
+                  <hi>Q.</hi> What is meant by <hi>Heaven and Earth?</hi>
+                  <note place="margin">Maker of Heaven &amp; Earth,</note>
+               </p>
+               <p>
+                  <hi>A.</hi> The World and all things that are therein. Gen. 1.1. <hi>In the beginning God created the heaven, and the earth.</hi> Acts 17.24.</p>
+               <p>
+                  <hi>Q.</hi> Of what did God make the World?</p>
+               <p>
+                  <hi>A.</hi> Out of nothing, Heb. 11.3. <hi>The things which are ſeen, were not made of things which do ap<g ref="char:EOLhyphen"/>pear.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How is the World preſerved?</p>
+               <p>
+                  <hi>A.</hi> By the ſame Divine Power that made it, Nehem. <hi>9. Thou haſt made the heaven of heavens, with all their boſt, the Earth and all things that are therein, the Seas and all that is therein; and thou pre<g ref="char:EOLhyphen"/>ſerveſt them all.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doth the ſecond Branch of the Creed reſpect?
+<note place="margin">Article 2. <hi>And in Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi>
+                  </note>
+               </p>
+               <p>
+                  <hi>A.</hi> God the Son, and his Work of Redemption.</p>
+               <p>
+                  <hi>Q.</hi> What is declared in this Branch?</p>
+               <p>
+                  <hi>A.</hi> 1. The Perſon of our Redeemer. 2. His Humiliation. And 3. Exaltation.</p>
+               <p>
+                  <hi>Q.</hi> How is he deſcrib'd?</p>
+               <p>
+                  <hi>A.</hi> By his Names and Relations.</p>
+               <p>
+                  <hi>Q.</hi> By what Names is the Son of God call'd in Scripture?</p>
+               <p>
+                  <hi>A.</hi> The <hi>Word, Jeſus, Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How doth the name <hi>Word</hi> belong to him?</p>
+               <p>
+                  <hi>A.</hi> It's given to him, as he was in being before he came into the World. John 1.1. <hi>In the begin<g ref="char:EOLhyphen"/>ning was the Word.</hi> Col. 1.17. <hi>He is before all things.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How doth the name <hi>Jeſus</hi> belong to him?</p>
+               <p>
+                  <hi>A.</hi> It was his proper Name, which was given him by Gods appointment <hi>(a),</hi> and by which he
+<pb n="13" facs="tcp:35478:11"/>was known amongſt Men <hi>(b). (a)</hi> Matth. 1.21. <hi>Thou ſhalt call his name Jeſus. (b)</hi> John 9.11. <hi>A man that is called Jeſus,</hi> Luke 2.21.</p>
+               <p>
+                  <hi>Q.</hi> What doth the name <hi>Jeſus</hi> ſignify?</p>
+               <p>
+                  <hi>A.</hi> It ſignifies a <hi>Saviour.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why was he called <hi>Jeſus?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe he was to <hi>ſave his people from their ſins,</hi> Matth. 1.21. 1 Tim. 1.15. <hi>This is a faithful ſaying, and worthy of all acceptation, that Chriſt Jeſus came into the World to ſave ſinners.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How doth the name <hi>Chriſt</hi> belong to him?</p>
+               <p>
+                  <hi>A.</hi> As he was the Meſſias or Chriſt propheſied of in the <hi>Old Teſtament,</hi> Dan. 9.25, 26. <hi>Meſſiah the Prince,—Meſſiah ſhall be cut off, but not for himſelf.</hi> John 20.31. <hi>Theſe are written, that ye may believe that Jeſus is the Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doth the word <hi>Chriſt</hi> ſignify?</p>
+               <p>
+                  <hi>A.</hi> It's the ſame with Meſſiah, and ſignifies Anointed, John 1.41. <hi>The Meſſias, which is, being interpreted, the Chriſt,</hi> or <hi>the Anointed;</hi> as it's in the margin.</p>
+               <p>
+                  <hi>Q.</hi> Why was he called <hi>the Chriſt,</hi> or Anointed?</p>
+               <p>
+                  <hi>A.</hi> Becauſe he was in a Spiritual manner to perform the Offices belonging to God's Anoint<g ref="char:EOLhyphen"/>ed <hi>(a),</hi> to Kings <hi>(b),</hi> Prieſts <hi>(c),</hi> and Prophets <hi>(d). (a) Pſalm</hi> 105.15. <hi>(b)</hi> 1 <hi>Kings</hi> 1.34. <hi>(c) Exod.</hi> 40.13. <hi>(d)</hi> 1 <hi>King.</hi> 19.16.</p>
+               <p>
+                  <hi>Q.</hi> How was he a <hi>King?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To govern his Church. Epheſ. 1.22. <hi>He hath put all things under his feet, and gave him to be the head over all things to the Church.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How was he a <hi>Prieſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> As he did make an atonement <hi>(a),</hi> intercedes for <hi>(b),</hi> and bleſſes <hi>(c)</hi> his Church. <hi>(a)</hi> Rom. 5.11. <hi>We joy in God, through our Lord Jeſus Chriſt, by
+<pb n="14" facs="tcp:35478:12"/>whom we have now received the atonement,</hi> 1 Joh. 2.2. <hi>(b)</hi> Heb. 7.25. <hi>He ever liveth to make interceſſion for them. (c)</hi> Acts 3.26. <hi>God having raiſed up his Son Jeſus, ſent him to bleſs you, in turning away every one of you from his iniquities.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How was he a <hi>Prophet?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To teach his Church, which he did <hi>(a)</hi> in his Perſon, and by his Spirit <hi>(b),</hi> Word <hi>(c),</hi> and <hi>(d)</hi> Miniſtry. <hi>(a)</hi> Iſa. 61.1. <hi>The Lord hath anointed me to preach good tidings unto the meek,</hi> &amp;c. Luke 4.18. <hi>(b)</hi> John 14.26. <hi>The comforter, which is the Holy Ghoſt, whom the Father will ſend in my name, he ſhall teach you all things. (c)</hi> 1 Pet. 1.25. <hi>The word of the Lord endureth for ever: And this is the word which by the Goſpel is preached unto you,</hi> 2 Cor. 5.19, 20, 21. <hi>(d)</hi> Matth. 28.19, 20. <hi>Go ye therefore and teach</hi> [Diſciple] <hi>all nations,—teaching them to obſerve all things, whatſoever I have commanded you,</hi> Epheſ. 4.11. Gal. 6.6.</p>
+               <p>
+                  <hi>Q.</hi> How was Chriſt <hi>anointed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He was anointed with the Holy Ghoſt <hi>(a),</hi> which he received without meaſure <hi>(b). (a)</hi> Acts 10.38. <hi>God anointed Jeſus of Nazareth with the Holy Ghoſt. (b)</hi> John 3.34. <hi>God giveth not the Spirit by meaſure unto him,</hi> Col. 1.19.</p>
+               <p>
+                  <hi>Q.</hi> How is Chriſt the <hi>only</hi> Son of God?
+<note place="margin">His only Son,</note>
+               </p>
+               <p>
+                  <hi>A.</hi> As he derived his Eſſence from the Fa<g ref="char:EOLhyphen"/>ther, Heb. 1.4, 5. <hi>Made ſo much better than the An<g ref="char:EOLhyphen"/>gels, as he hath by inheritance obtained a more excel<g ref="char:EOLhyphen"/>lent Name than they; for unto which of the Angels ſaid he at any time, Thou art my Son, this day have I begotten thee.</hi>
+               </p>
+               <p>Q. How is Chriſt ſaid to be <hi>our Lord?</hi>
+                  <note place="margin">Our Lord.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. By Creation, <hi>Job.</hi> 1.3. <hi>All things were made by him,</hi> Col. 1.15, 16.</p>
+               <p n="2">
+                  <pb n="15" facs="tcp:35478:12"/>2. By Redemption and purchaſe, 1 <hi>Pet.</hi> 1.18. <hi>Ye were not redeem'd with corruptible things as Silver and Gold—but with the precious blood of Chriſt,</hi> 1 <hi>Cor.</hi> 8.6.</p>
+               <p>Q. What do you obſerve in Chriſt's Humili<g ref="char:EOLhyphen"/>ation?</p>
+               <p>
+                  <hi>A.</hi> His Incarnation and Paſſion.</p>
+               <p>Q. How was Chriſt the Eternal <hi>Word</hi> made Man?
+<note place="margin">Article 3. <hi>Who was conceived by the Ho<g ref="char:EOLhyphen"/>ly Ghoſt,</hi>
+                  </note>
+               </p>
+               <p>
+                  <hi>A.</hi> By uniting the Humane Nature to the Di<g ref="char:EOLhyphen"/>vine in one Perſon, <hi>Joh.</hi> 1.4. <hi>The Word was made fleſh.</hi> Heb. 2.14, 16.</p>
+               <p>Q. How was this accompliſhed?</p>
+               <p>
+                  <hi>A.</hi> By the powerful operation of the Holy Ghoſt, <hi>Luk.</hi> 1.35. <hi>The Holy Ghoſt ſhall come upon thee, and the power of the Higheſt ſhall overſhadow thee.</hi>—</p>
+               <p>Q. Why was Chriſt thus formed and concei<g ref="char:EOLhyphen"/>ved, and not by the ordinary way of generation?</p>
+               <p>
+                  <hi>A.</hi> That he might aſſume our Nature without the depravation of it, <hi>Luk.</hi> 1.35.—<hi>Therefore that Holy thing which ſhall be born of thee, ſhall be called the Son of God.</hi> Heb. 10.5.</p>
+               <p>Q. Whence was his Bodily ſubſtance derived?
+<note place="margin">
+                     <hi>Born of the Virgin</hi> Mary.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> From the Body of the Virgin <hi>Mary,</hi> there<g ref="char:EOLhyphen"/>fore he is ſaid to be <hi>the ſeed of the woman,</hi> Gen. 3.15. and to be <hi>made of a woman,</hi> Gal. 4.4.</p>
+               <p>Q. Why was Chriſt born of a Virgin?</p>
+               <p>
+                  <hi>A.</hi> 1. For the Sacredneſs of it, Luke 1.35. <hi>That holy thing which ſhall be born of thee.</hi>
+               </p>
+               <p n="2">2. For the fulfilling of the Propheſy, Iſaiah 7.14. <hi>The Lord himſelf ſhall give you a ſign, behold a Virgin ſhall conceive and bear a Son.</hi> Matth. 1.23.</p>
+               <p n="3">3. To ſhew the Power of God, Luke 1.35. <hi>The power of the higheſt ſhall overſhadow thee; there<g ref="char:EOLhyphen"/>fore
+<pb n="16" facs="tcp:35478:13"/>alſo, that thing which ſhall be born of thee, ſhall be called the Son of God.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why did Chriſt thus become Man?</p>
+               <p>
+                  <hi>A.</hi> To fit him for the full diſcharge of his Of<g ref="char:EOLhyphen"/>fice, as a Mediator, ſo that he might dye, and being one of the ſame Nature with thoſe he died for, might make an Atonement for Sin, Heb. 2.9, 17. <hi>Jeſus was made a little lower than the Angels for the ſuffering of death.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> For what Reaſon did our Saviour ſuffer Death?
+<note place="margin">Article 4. <hi>Suffered under</hi> Pontius Pilate,</note>
+               </p>
+               <p>
+                  <hi>A.</hi> That he might become a Sacrifice <hi>(a),</hi> and by the ſhedding of his Blood might make an Atonement for Sin <hi>(b). (a)</hi> Heb. 9.26. <hi>He put away ſin by the ſacrifice of himſelf. (b)</hi> 1 Joh. 2.2. <hi>He is the propitiation for our ſins.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why is Chriſt ſaid to <hi>ſuffer under</hi> Pontius Pilate?</p>
+               <p>
+                  <hi>A.</hi> To ſignifie the time of his Death, and therein the accompliſhment of the Propheſies con<g ref="char:EOLhyphen"/>cerning it, Acts 3.18. <hi>Theſe things which God be<g ref="char:EOLhyphen"/>fore had ſhewed by the mouth of all his Prophets, that Chriſt ſhould ſuffer, he hath ſo fulfilled.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was <hi>Pontius Pilate?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Governour of <hi>Judea</hi> under <hi>Tiberius,</hi> the <hi>Roman</hi> Emperor, <hi>Luke</hi> 3.1. <hi>Matth.</hi> 27.2.</p>
+               <p>
+                  <hi>Q.</hi> What was the Death our Saviour ſuffer'd for us?
+<note place="margin">Was cru<g ref="char:EOLhyphen"/>cified,</note>
+               </p>
+               <p>
+                  <hi>A.</hi> It was the Death of the Croſs, <hi>Mat.</hi> 27.35.</p>
+               <p>
+                  <hi>Q.</hi> What was the Death of the Croſs?</p>
+               <p>
+                  <hi>A.</hi> 1. It was intolerable for the Pain. Thence our Saviour is ſaid to have <hi>endured the Croſs,</hi> Heb. 12.2.</p>
+               <p n="2">2. It was infamous, and a Puniſhment of the vileſt Malefactors, Matth. 27.38. <hi>Then were there
+<pb n="17" facs="tcp:35478:13"/>two thieves crucified with him.</hi> Thence he is ſaid to have <hi>deſpiſed the ſhame,</hi> Heb. 12.2.</p>
+               <p n="3">3. It was accounted an accurſed Death, Gal. 3.13. <hi>Being made a curſe for us, for it is written, Curſed is every one that hangeth on a tree.</hi> Deut. 21.23.</p>
+               <p>
+                  <hi>Q.</hi> Why is it ſaid our Saviour <hi>died</hi> after he was crucified?
+<note place="margin">Dead</note>
+               </p>
+               <p>
+                  <hi>A.</hi> To ſhew that his Body, when he was a<g ref="char:EOLhyphen"/>live, was vitally united to his Soul. Luke 23.46. <hi>He gave up the Ghoſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why is it ſaid that our Saviour after he di<g ref="char:EOLhyphen"/>ed, was <hi>buried?</hi>
+                  <note place="margin">And buri<g ref="char:EOLhyphen"/>ed.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. To ſhew the certainty of his Death, John 19.40, 41, 42. <hi>In the place where he was cru<g ref="char:EOLhyphen"/>cified there was a Garden, and in the Garden a Sepul<g ref="char:EOLhyphen"/>chre,</hi> &amp;c. <hi>there laid they Jeſus.</hi>
+               </p>
+               <p n="2">2. To ſhew that our Saviour's Body, that <hi>holy Thing,</hi> was not left upon the Croſs (as it was uſual) to periſh, but was decently interr'd.</p>
+               <p n="3">3. To teſtify the loweſt act of abaſement, Iſa. 53.9. <hi>He made his Grave with the wicked.</hi>
+               </p>
+               <p n="4">4. To give Teſtimony to the truth of his Re<g ref="char:EOLhyphen"/>ſurrection, Acts 13.29, 30. <hi>They took him down from the Tree, and laid him in a Sepulchre: But God raiſed him from the dead.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How was the Soul of Chriſt diſpoſed of,
+<note place="margin">He deſcen<g ref="char:EOLhyphen"/>ded into Hell,</note> after its ſeparation from the Body?</p>
+               <p>
+                  <hi>A.</hi> He is ſaid to be in <hi>Hell (a),</hi> to go to <hi>Para<g ref="char:EOLhyphen"/>diſe (b),</hi> or the higheſt Heaven <hi>(c). (a)</hi> Acts 2. 27, 31. <hi>Thou wilt not leave my Soul in Hell. (b)</hi> Luke 23.43. <hi>This day ſhalt thou be with me in Paradiſe. (c)</hi> 2 Cor. 12.2, 3, 4.</p>
+               <p>
+                  <hi>Q.</hi> What is here meant by <hi>Hell?</hi>
+               </p>
+               <pb n="18" facs="tcp:35478:14"/>
+               <p>
+                  <hi>A.</hi> It ſignifies a ſtate of Separation, Acts 2.27. <hi>Thou ſhalt not leave my Soul in Hell, nor ſuffer thine holy one to ſee Corruption,</hi> that is, the Soul and Body of Chriſt ſhould not be ſo long ſeparated; but that before the Body ſhould corrupt, both Soul and Body ſhould be reunited.</p>
+               <p>
+                  <hi>Q.</hi> Why was not our Saviour to continue in that State?</p>
+               <p>
+                  <hi>A.</hi> Becauſe Death was not to have <hi>Dominion over him,</hi> Rom. 6.9.</p>
+               <p>
+                  <hi>Q.</hi> But may not Hell be underſtood here of the ſtate of the damned?</p>
+               <p>
+                  <hi>A.</hi> It has been an ancient Opinion, that Chriſt did then locally deſcend into Hell, to triumph over the Devil and his Angels.</p>
+               <p>
+                  <hi>Q.</hi> What do you obſerve in our Saviour's <hi>Ex<g ref="char:EOLhyphen"/>altation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. His Reſurrrection. 2. His Aſcenſion. 3. His glorification. 4. His Coming to Judg<g ref="char:EOLhyphen"/>ment.</p>
+               <p>
+                  <hi>Q.</hi> What is the <hi>Reſurrection</hi> of Chriſt?
+<note place="margin">Article 5. <hi>The third day he roſe again from the Dead.</hi>
+                  </note>
+               </p>
+               <p>
+                  <hi>A.</hi> It's the Reunion of the ſelf-ſame Soul to the ſelf-ſame Body. Luke 24.39. <hi>Behold my hands and my feet, that it is I my ſelf.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> When did our Lord riſe?</p>
+               <p>
+                  <hi>A.</hi> On the third day after he died, which was then the firſt day of the Week, and was thence cal<g ref="char:EOLhyphen"/>led the <hi>Lord's day,</hi> Rev. 1.10.</p>
+               <p>
+                  <hi>Q.</hi> Why did Chriſt riſe the <hi>third Day?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. To fulfil what the Scriptures <hi>(a)</hi> and he himſelf had foretold <hi>(b). (a)</hi> Pſal. 16.10. <hi>Thou wilt not ſuffer thy holy One to ſee Corruption. (b)</hi> Matth. 16.21. <hi>From that time forth, Jeſus be<g ref="char:EOLhyphen"/>gan to ſhew unto his Diſciples, how that he muſt go unto Jeruſalem,—and be killed, and be raiſed again the third day.</hi>
+               </p>
+               <p n="2">
+                  <pb n="19" facs="tcp:35478:14"/>2. It was that his Body might not corrupt <hi>(a),</hi> as in the courſe of Nature it would have done, had it lay longer in the Grave <hi>(b). (a)</hi> Pſal. 16.10. <hi>(b)</hi> John 11.39. <hi>By this time he ſtinketh, for he</hi> [Lazarus] <hi>hath been dead four days.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Of what importance is this Article of Chriſt's <hi>Reſurrection?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. It confirms whatever he ſaid, did or undertook for. Rom. 8.34. <hi>Yea, rather that is riſen again.</hi>
+               </p>
+               <p n="2">2. It's a pledge and aſſurance of our Reſurre<g ref="char:EOLhyphen"/>ction. Rom. 8.11. <hi>He that raiſed up Chriſt from the dead, ſhall alſo quicken your mortal Bodies, &amp;c.</hi>
+               </p>
+               <p n="3">3. It's a full Demonſtration of our Saviour's Victory over Death. Rom. 6 9. <hi>Chriſt being raiſed from the dead, died no more; death hath no more do<g ref="char:EOLhyphen"/>minion over him.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> After what manner did our Saviour <hi>Aſcend into Heaven?</hi>
+                  <note place="margin">Article 6. <hi>He aſcen<g ref="char:EOLhyphen"/>ded into Heaven,</hi>
+                  </note>
+               </p>
+               <p>
+                  <hi>A.</hi> He aſcended Bodily, Locally, Viſibly <hi>(a),</hi> and Triumphantly <hi>(b). (a)</hi> Acts 1.9. <hi>While they beheld, he was taken up. (b)</hi> Epheſ. 4.8. <hi>When he aſcended up on high, he led Captivity captive.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Was Chriſt to abide Bodily in Heaven?</p>
+               <p>
+                  <hi>A.</hi> Yes, till the end of the World, Acts 3.21. <hi>Whom the Heavens muſt receive until the times of the Reſtitution of all things.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How is this Phraſe, <hi>The right Hand of God,</hi>
+                  <note place="margin">And ſit<g ref="char:EOLhyphen"/>teth on the right band of God.</note> to be underſtood?</p>
+               <p>
+                  <hi>A.</hi> Figuratively, for <hi>God is a Spirit (a),</hi> and hath no Body, nor parts of it <hi>(b). (a)</hi> Joh. 4.24. <hi>(b)</hi> Luke 24.39. <hi>A Spirit hath not Fleſh and Bones.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doth <hi>the right Hand of God</hi> ſignify in a figurative Sence?</p>
+               <pb n="20" facs="tcp:35478:15"/>
+               <p>
+                  <hi>A.</hi> 1. It ſignifies Power. Luke 22.69. <hi>Hereaf<g ref="char:EOLhyphen"/>ter ſhall the Son of man ſit on the right hand of the power of God.</hi>
+               </p>
+               <p n="2">2. Dignity. Heb. 1.3, 4. <hi>He ſat down on the right hand of the Majeſty on high, being made ſo much better than the Angels, &amp;c.</hi>
+               </p>
+               <p n="3">3. Dominion. Acts 2.34, 35. <hi>The Lord ſaid unto my Lord, Sit thou on my right hand, until I make thy foes thy footſtool.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doth <hi>ſitting</hi> at the right Hand of God ſignify?</p>
+               <p>
+                  <hi>A.</hi> It ſignifies the full Poſſeſſion of that Power, Dignity and Dominion. Heb. 10.12. <hi>This man af<g ref="char:EOLhyphen"/>ter he had offered one Sacrifice for ſins, for ever ſat down on the right hand of God.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doth Chriſt do at <hi>the right hand of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He appears in the Preſence of God for us <hi>(a),</hi> as our Mediator <hi>(b),</hi> Interceſſor <hi>(c),</hi> and Advo<g ref="char:EOLhyphen"/>cate <hi>(d). (a)</hi> Heb. 9.24. <hi>Chriſt is entered into Hea<g ref="char:EOLhyphen"/>ven it ſelf now to appear in the preſence of God for us. (b)</hi> 1 Tim. 2.5. <hi>(c)</hi> Rom. 8.34. <hi>(d)</hi> 1 John 2.1.</p>
+               <p>
+                  <hi>Q.</hi> What is the ground of his <hi>Mediation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. That he is God <hi>(a)</hi> Man <hi>(b),</hi> partaker of the nature of both. <hi>(a)</hi> Heb. 4.14. <hi>A high Prieſt, Jeſus the Son of God. (b)</hi> 1 Tim. 2.5. <hi>There is one Mediator between God and Men, the Man Chriſt Jeſus.</hi>
+               </p>
+               <p n="2">2. As he pleads for us in the Virtue and Merit of his own Blood. Heb. 9.12. <hi>By his own Blood he entred in once into the holy place, having obtained eter<g ref="char:EOLhyphen"/>nal Redemption for us.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Is Chriſt the alone Mediator?</p>
+               <pb n="21" facs="tcp:35478:15"/>
+               <p>A. <hi>There is one Mediator between God and Men, the Man Chriſt Jeſus,</hi> 1 Tim. 2.5.</p>
+               <p>
+                  <hi>Q.</hi> Why is Chriſt the alone Mediator?</p>
+               <p>
+                  <hi>A.</hi> 1. Becauſe he alone is partaker of both Na<g ref="char:EOLhyphen"/>tures, God-Man.</p>
+               <p n="2">2. Becauſe he only can plead for us, that made an Atonement by his Blood, 1 Tim. 2.5, 6. <hi>There is one Mediator between God and Men, the Man Chriſt Jeſus, who gave himſelf a ranſom for all.</hi> Rom. 8.34.</p>
+               <p>
+                  <hi>Q.</hi> Why is the Phraſe, <hi>Father Almighty,</hi>
+                  <note place="margin">Father Almighty.</note> added to this Article?</p>
+               <p>
+                  <hi>A.</hi> It's to ſignify, that Chriſt, as our Mediator, is inveſted by the Father with a fulneſs of Au<g ref="char:EOLhyphen"/>thority, Power and Dominion, in recompence of that Humiliation he ſubmitted to. Acts 5.30, 31. <hi>Jeſus whom ye ſlew and hanged on a tree, him hath God exalted with</hi> [to] <hi>his right hand, to be a Prince, and a Saviour.</hi> Phil. 2.7, 8, 9.</p>
+               <p>
+                  <hi>Q.</hi> What is the fourth Branch of Chriſt's Ex<g ref="char:EOLhyphen"/>altation?
+<note place="margin">Article 7. <hi>From thence he ſhall come to judgthe Quick and the Dead.</hi>
+                  </note>
+               </p>
+               <p>
+                  <hi>A.</hi> His Coming to Judgement. Acts 17.31. <hi>He will judge the World in righteouſneſs by that man whom he hath ordained, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Whence ſhall he come?</p>
+               <p>
+                  <hi>A.</hi> From Heaven. 1 Theſ. 4.16. <hi>The Lord him<g ref="char:EOLhyphen"/>ſelf ſhall deſcend from Heaven, &amp;c.</hi> Matth. 25.31.</p>
+               <p>
+                  <hi>Q.</hi> Whom ſhall he judge?</p>
+               <p>
+                  <hi>A.</hi> All Men; <hi>the Quick,</hi> who now are, or here<g ref="char:EOLhyphen"/>after ſhall be; and the <hi>Dead.</hi> Acts 10.42. <hi>It is he which was ordained of God to be the Judge of Quick and Dead.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> For what ſhall he judge them?</p>
+               <p>
+                  <hi>A.</hi> For all things <hi>(a),</hi> whether Secret <hi>(b),</hi> or Open. <hi>(a)</hi> 2 Cor. 5.10. <hi>We muſt all appear before
+<pb n="22" facs="tcp:35478:16"/>the judgment-ſeat of Chriſt, that every one may receive the things done in his Body, according to that he hath done, whether it be good or bad. (b)</hi> Eccleſ. 12.14. <hi>God ſhall bring every work into Judgement, with every ſecret thing.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi>
+                  <note place="margin">Article 8. <hi>I believe in the Ho<g ref="char:EOLhyphen"/>ly Ghoſt.</hi>
+                  </note> What is <hi>the Holy Ghoſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The third Perſon in the ſacred Trinity. 1 Joh. 5.7. <hi>There are three that bear record in Hea<g ref="char:EOLhyphen"/>ven, the Father, the Word, and the Holy Ghoſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why is he call'd the <hi>Holy Ghoſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe of his Office, which is in Chriſt's ſtead, to gather, ſanctify, and govern the Church. Eph. 5.25, 26. <hi>Chriſt loved the Church, and gave himſelf for it, that he might ſanctifie and cleanſe it, with the waſhing of water by the word, &amp;c.</hi> Tit. 3.4, 5. <hi>The kindneſs and love of God, our Saviour, toward man, appeared—according to his mercy he ſaved us, by the waſhing of regeneration, and renewing of the Holy Ghoſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi>
+                  <note place="margin">Article 9. <hi>The Holy Catholick Church.</hi>
+                  </note> What doth the word <hi>Catholick</hi> ſignify?</p>
+               <p>
+                  <hi>A.</hi> It ſignifies <hi>
+                     <g ref="char:V">Ʋ</g>niverſal.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the <hi>Catholick Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It's the whole Society of Chriſtians diſper<g ref="char:EOLhyphen"/>ſed over all the World, as they are gathered under one Head, Chriſt Jeſus. Col. 1.18. <hi>He is the head of the Body, the Church.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why is the term <hi>Catholick</hi> applied to the Chriſtian Church?</p>
+               <p>
+                  <hi>A.</hi> To diſtinguiſh it from the Jewiſh Church, which was confined to one Nation <hi>(a),</hi> whereas the Chriſtian Church is extended to all Nati<g ref="char:EOLhyphen"/>ons <hi>(b.) (a)</hi> Pſal. 147.19, 20. <hi>He ſheweth his word unto Jacob,</hi> &amp;c. <hi>he hath not dealt ſo with any nation. (b)</hi> Matth. 28.19. <hi>Go ye, teach all nations.</hi> 1 Cor. 12.13.</p>
+               <pb n="23" facs="tcp:35478:16" rendition="simple:additions"/>
+               <p>Q. Can any particular Church, as that of <hi>Rome,</hi> be called <hi>the Catholick Church?</hi>
+               </p>
+               <p>A. No: no more than the City of <hi>Rome</hi> is the whole World.</p>
+               <p>Q. How is the Church ſaid to be <hi>holy?</hi>
+               </p>
+               <p>A. As the <hi>Jews</hi> were ſaid to be a <hi>holy Nation, (a)</hi> by being taken into Covenant with God, and as we are under the obligation of being holy <hi>(b). (a) Exod.</hi> 19.6. <hi>(b)</hi> 1 <hi>Theſ.</hi> 4.7. <hi>God hath called us unto holineſs.</hi>
+               </p>
+               <p>Q. What are the privileges belonging to the <hi>Catholick Church?</hi>
+               </p>
+               <p>A. They are four: 1. The Communion of Saints: 2. The forgiveneſs of ſins: 3. The Re<g ref="char:EOLhyphen"/>ſurrection of the body: 4. Life everlaſting.
+<note place="margin">Communi<g ref="char:EOLhyphen"/>on of Saints.</note>
+               </p>
+               <p>
+                  <hi>Q.</hi> How is the word <hi>Saints</hi> to be underſtood?</p>
+               <p>A. It's to be underſtood of all thoſe that are viſible members of Chriſt's Church. <hi>Rom.</hi> 1.7. <hi>To all that be at Rome, called to be Saints;</hi> that is, Chriſtians.</p>
+               <p>Q. What is the firſt privilege?</p>
+               <p>A. <hi>Communion of Saints:</hi> 1 Joh. 1.3, 7. <hi>Truly our fellowſhip is with the Father and with his Son Jeſus Chriſt.</hi> V. 7. <hi>If we walk in the light, as he is in the light, we have fellowſhip one with another.</hi>
+               </p>
+               <p>Q. In what doth this Communion conſiſt?</p>
+               <p>
+                  <hi>A.</hi> It conſiſts in a fellowſhip in the Ordinan<g ref="char:EOLhyphen"/>ces of Divine Worſhip <hi>(a),</hi> and of charity one towards another <hi>(b). (a)</hi> Act. 2.42. <hi>They continued ſtedfaſtly in the Apoſtles Doctrine and Fellowſhip, and in breaking of bread, and in prayers. (b)</hi> 1 Cor. 12.26, 27. <hi>Whether one member ſuffer, all the members ſuffer with it, &amp;c.</hi>
+               </p>
+               <p>Q. What is the ſecond privilege belonging to the Church?</p>
+               <pb n="24" facs="tcp:35478:17"/>
+               <p>A.
+<note place="margin">Artic. 10. <hi>Forgive<g ref="char:EOLhyphen"/>neſs of ſin.</hi>
+                  </note> 
+                  <hi>Forgiveneſs of ſins.</hi> Rom. 4.7. <hi>Bleſſed are they whoſe iniquities are forgiven.</hi>
+               </p>
+               <p>Q. What is <hi>Sin?</hi>
+               </p>
+               <p>A. <hi>It's a tranſgreſſion of the Law</hi> of God, 1 Joh. 3.4.</p>
+               <p>Q. What is the puniſhment due to ſin?</p>
+               <p>
+                  <hi>A.</hi> Death, temporal <hi>(a)</hi> and eternal <hi>(b). (a)</hi> Rom. 5.12. <hi>By one man</hi> [Adam] <hi>ſin entred in<g ref="char:EOLhyphen"/>to the world, and death by ſin, and ſo death paſſed up<g ref="char:EOLhyphen"/>on all men, for that all have ſinned.</hi> Rom. 6.23. <hi>The wages of ſin is death.</hi> Mat. 25.46.</p>
+               <p>Q. What is <hi>the forgiveneſs of ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It's God's not imputing it in the puniſh<g ref="char:EOLhyphen"/>ment. Rom. 4.7, 8. <hi>Bleſſed are they whoſe iniquities are forgiven.—Bleſſed is the man to whom the Lord imputeth not ſin,</hi> Rom. 5.13.</p>
+               <p>Q. Upon what terms is ſin forgiven?</p>
+               <p>
+                  <hi>A.</hi> Upon our Faith and Repentance, <hi>Act.</hi> 26.17, 18. <hi>I ſend thee to open their eyes, and to turn them from darkneſs to light, &amp;c. that they may receive forgiveneſs of ſins, &amp;c. through faith that is in me.</hi>
+               </p>
+               <p>Q. By what means is God thus reconciled to ſinful man?</p>
+               <p>
+                  <hi>A.</hi> It's through Chriſt. Epheſ. 4.32. <hi>God for Chriſt's ſake hath forgiven you.</hi>
+               </p>
+               <p>Q.
+<note place="margin">Artic. 11. <hi>The Re<g ref="char:EOLhyphen"/>ſurrection of the Body.</hi>
+                  </note> What is the third privilege?</p>
+               <p>A. <hi>The Reſurrection of the Body.</hi>
+               </p>
+               <p>Q. What do you underſtand by the <hi>Reſurrecti<g ref="char:EOLhyphen"/>on of the Body?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That the Body ſhall be raiſed out of the duſt <hi>(a);</hi> and being again united to the ſoul, ſhall be glo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ous <hi>(b),</hi> and immortal <hi>(c.) (a)</hi> 1 Cor. 15.36. <hi>That which thou ſoweſt is not quickened except it die, &amp;c. (b)</hi> Phil. 3.21. <hi>Who ſhall change our vile body, that it may be faſhioned like unto his glorious body. (c)</hi>
+                  <pb n="25" facs="tcp:35478:17"/>1 Cor. 15.53. <hi>This mortal muſt put on immortality.</hi>
+               </p>
+               <p>Q. What is the fourth privilege?
+<note place="margin">Artic. 12. <hi>The Life everlaſt<g ref="char:EOLhyphen"/>ing.</hi>
+                  </note>
+               </p>
+               <p>A. <hi>Everlaſting Life.</hi>
+               </p>
+               <p>Q. What is implied in that?</p>
+               <p>
+                  <hi>A.</hi> A ſtate of moſt perfect happineſs, which conſiſts in the perfection of our natures <hi>(a),</hi> and the enjoyment of God <hi>(b). (a)</hi> Mat. 22.30. <hi>In the Reſurrection they are as the Angels of God in Hea<g ref="char:EOLhyphen"/>ven. (b)</hi> Pſal. 16.11. <hi>In thy preſence is fulneſs of joy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and at thy right hand there are pleaſures for evermore.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>PART. III. <hi>Of the</hi> Decalogue, <hi>or Ten Commandments.</hi>
+               </head>
+               <p>Q.
+<note place="margin">The <hi>De<g ref="char:EOLhyphen"/>calogue.</hi>
+                  </note> WHat was the third thing promiſed at your Baptiſm?</p>
+               <p>A. <hi>That I ſhould keep God's holy Will and Com<g ref="char:EOLhyphen"/>mandments, and walk in the ſame all the days of my life.</hi>
+               </p>
+               <p>Q. What are the Characters of true Obedi<g ref="char:EOLhyphen"/>ence that you collect from hence?</p>
+               <p>
+                  <hi>A.</hi> 1. It's univerſal, <hi>a keeping Gods holy Will and Commandments.</hi> Pſal. 119.6. <hi>Then ſhall I not be a<g ref="char:EOLhyphen"/>ſhamed, when I have reſpect to all thy Commandments.</hi>
+               </p>
+               <p n="2">2. It's a courſe of Obedience, <hi>a walking in the ſame.</hi> 1 King. 6.12. <hi>If thou wilt keep all my Com<g ref="char:EOLhyphen"/>mandments to walk in them.</hi> Rom. 6.4.</p>
+               <p n="3">3. A perſeverance in that courſe; it's to <hi>be all the days of my life.</hi> Luk. 1.74, 75. <hi>That we might ſerve him without fear in holineſs and righteouſneſs before him all the days of our life.</hi>
+               </p>
+               <pb n="26" facs="tcp:35478:18" rendition="simple:additions"/>
+               <p>Q. <hi>You ſaid that your God-Fa<g ref="char:EOLhyphen"/>thers and God-Mothers did promiſe for you, that you ſhould keep God's Commandments; tell me how ma<g ref="char:EOLhyphen"/>ny there be?</hi>
+               </p>
+               <p>A. <hi>Ten.</hi>
+               </p>
+               <p>Q. <hi>Which be they?</hi>
+               </p>
+               <p>A. <hi>The ſame which God ſpake in the twentieth Chapter of Exodus, ſaying, I am the Lord thy God, who brought thee out of the land of Egypt, out of the houſe of bondage:</hi>
+               </p>
+               <p>Q. What is there contained in this Preface?</p>
+               <p>
+                  <hi>A.</hi> It affords ſeveral Arguments to Obedience?</p>
+               <p>Q. What are they?</p>
+               <p>
+                  <hi>A.</hi> They are taken,</p>
+               <p n="1">1. From God's Authority, <hi>God ſpake theſe words.</hi>
+               </p>
+               <p n="2">2. From God's Soveraignty, <hi>I am the Lord.</hi>
+               </p>
+               <p n="3">3. From God's propriety in them, <hi>thy God, Deut.</hi> 26.16, 17.</p>
+               <p n="4">4. From his goodneſs to them, <hi>Who brought thee out of the land of Egypt</hi> Deut. 8.14.</p>
+               <p>Q.
+<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>hiſt.</note> Say the Commandments.</p>
+               <p>A. 1. <hi>Thou ſhalt have none other Gods but me,</hi> &amp;c.</p>
+               <p>Q. If the Commandments are <hi>Ten,</hi> how are they ſaid to be two by our Saviour, <hi>Mat.</hi> 22.38, 40?</p>
+               <p>A. They are <hi>two,</hi> as they are divided into Two Tables, of love to God and our Neighbour.</p>
+               <p>Q. <hi>What doſt thou chiefly learn by theſe Commandments,</hi> contained in the Two Tables.</p>
+               <pb n="27" facs="tcp:35478:18"/>
+               <p>A. <hi>I learn two things, my Duty towards God, and my Duty to<g ref="char:EOLhyphen"/>wards my Neighbour.</hi>
+               </p>
+               <p>Q. <hi>What is thy Duty towards God?</hi>
+               </p>
+               <p>A. <hi>My Duty towards God is to believe in him, to fear him, and to love him,</hi> &amp;c.</p>
+               <p>Q. How many Commandments belong to the firſt Table?</p>
+               <p>A. The firſt four.</p>
+               <p>Q. What is the firſt Commandment?</p>
+               <p>A.
+<note place="margin">
+                     <hi>Com<g ref="char:EOLhyphen"/>mand<g ref="char:EOLhyphen"/>ment</hi> 1.</note> 
+                  <hi>Thou ſhalt have no other Gods but me.</hi>
+               </p>
+               <p>Q. What is forbidden in this Commandment?</p>
+               <p>A. I am forbidden hereby [1.] to <hi>have</hi> or own any more than one God <hi>(a).</hi> [2.] To give the honour due to God to any other object whatſo<g ref="char:EOLhyphen"/>ever <hi>(b). (a)</hi> 1 Cor. 8.4, 6. <hi>There is none other God but one. (b)</hi> Mat. 4.10. <hi>Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve.</hi>
+               </p>
+               <p>Q. What is required in this Commandment?</p>
+               <p>A. <hi>To believe in him</hi> (a), <hi>to fear him</hi> (b), <hi>and to love him with all my heart, with all my mind, with all my ſoul, and with all my ſtrength</hi> (c), <hi>to worſhip him</hi> (d), <hi>to give him thanks</hi> (e), <hi>to put my whole truſt in him</hi> (f), <hi>to call upon him</hi> (g).</p>
+               <p>
+                  <hi>(a)</hi> Heb. 11.6. <hi>He that cometh to God muſt be<g ref="char:EOLhyphen"/>lieve that he is. (b)</hi> Eccleſ. 12.13. <hi>Fear God and
+<pb n="28" facs="tcp:35478:19"/>keep his Commandments, for this is the whole duty of man. (c)</hi> Mat. 22.37. <hi>Thou ſhalt love the Lord thy God with all thy heart, &amp;c. (d)</hi> Mat. 4.10. <hi>Thou ſhalt worſhip the Lord thy God. (e)</hi> Pſal. 92.1, 2. <hi>It is a good thing to give thanks unto the Lord, and to ſing praiſes unto thy name, O thou moſt high. (f)</hi> Prov. 3.5. <hi>Truſt in the Lord with all thine heart, and lean not to thine own underſtanding. (g)</hi> Phil. 4.6. <hi>Be careful for nothing, but in every thing by prayer and ſupplication with thanksgiving, let your requeſts be made known unto God.</hi>
+               </p>
+               <p>Q.
+<note place="margin">
+                     <hi>Com<g ref="char:EOLhyphen"/>mand.</hi> 2.</note> What is the ſecond Commandment?</p>
+               <p>A. <hi>Thou ſhalt not make to thy ſelf any graven Image, nor the like<g ref="char:EOLhyphen"/>neſs of any thing that is in hea<g ref="char:EOLhyphen"/>ven above, or in the earth beneath, or in the water under the earth. Thou ſhalt not bow down to them, nor worſhip them: for I the Lord thy God am a jealous God, and viſit the ſins of the fathers upon the children, unto the third and fourth generation of them that hate me, and ſhew mercy unto thouſands of them that love me, and keep my commandments.</hi>
+               </p>
+               <p>Q. What is forbidden in this Commandment?</p>
+               <p>A. All Religious Worſhip given to an Image.</p>
+               <p>
+                  <hi>Q.</hi> What is an <hi>Image,</hi> the worſhip of which is here forbidden?</p>
+               <p>A. An Image is any external Repreſentation of God ſet up for the receiving Divine Worſhip. <hi>Levit.</hi> 26.1. <hi>Ye ſhall make you no Idols, nor graven Image; neither rear you up a ſtanding Image; neither
+<pb n="29" facs="tcp:35478:19"/>ſhall ye ſet up a Image of Stone in your Land, to bow down unto it, for I am the Lord your God.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Is a Repreſentation of the true God here<g ref="char:EOLhyphen"/>by forbidden, as well as that of a falſe God?</p>
+               <p>
+                  <hi>A.</hi> Yes, for the true God is incomprehenſi<g ref="char:EOLhyphen"/>ble, and cannot be deſcribed, Iſa. 40.17, 18, <hi>&amp;c. All nations before him are as nothing, &amp;c. To whom then will ye liken God? &amp;c.</hi>
+               </p>
+               <p>(2.) It was condemned when it was uſed, as in the Golden Calf, which was made for a Re<g ref="char:EOLhyphen"/>preſentation of <hi>Jehovah,</hi> the Lord. Exod. 32.5. <hi>Aaron built an altar before it, and made proclama<g ref="char:EOLhyphen"/>tion, and ſaid, To morrow is a feaſt to the Lord,</hi> or <hi>Je<g ref="char:EOLhyphen"/>hovah.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are the Reaſons annexed to this Commandment?</p>
+               <p>
+                  <hi>A.</hi> They are three.</p>
+               <p n="1">1. The Lord is a <hi>Jealous God.</hi> (1.) Leſt by this means men come to have groſs Conceptions of him, as if he was like to an Image <hi>(a).</hi> (2.) Leſt they are thereby eſtranged from him, and think that to be God, which is not God <hi>(b). (a)</hi> Acts 17.29. <hi>We ought not to think that the Godbead is like unto Gold or Silver, or Stone gra<g ref="char:EOLhyphen"/>ven by art, and mens device.</hi> Deut. 4.12, 15. <hi>Ye heard the Voice of the Lord, but ſaw no Similitude. (b)</hi> Ezek. 14.5. <hi>The houſe of Iſrael are eſtranged from me through their Idols.</hi>
+               </p>
+               <p n="2">2. The Perſons guilty of this Sin, are eſteem<g ref="char:EOLhyphen"/>ed <hi>Haters</hi> of God, and which he will puniſh <hi>to the third and fourth Generation.</hi>
+               </p>
+               <p n="3">3. That on the contrary, he will <hi>ſhew Mercy</hi> abundantly unto them that keep this Command<g ref="char:EOLhyphen"/>ment: <hi>Shewing Mercy unto thouſands.</hi>
+               </p>
+               <pb n="30" facs="tcp:35478:20"/>
+               <p>
+                  <hi>Q.</hi> How can the Church of <hi>Rome</hi> vindicate it ſelf for their making an Image of God, and gi<g ref="char:EOLhyphen"/>ving Adoration to an Image?</p>
+               <p>
+                  <hi>A.</hi> They uſually leave out this Command<g ref="char:EOLhyphen"/>ment.</p>
+               <p>
+                  <hi>Q.</hi> Why ſo?</p>
+               <p>
+                  <hi>A.</hi> Becauſe they ſay it's the ſame with the firſt, and ſo make the third Commandment to be the Second, and divide the Tenth into two.</p>
+               <p>
+                  <hi>Q.</hi> But beſides, that the Scripture makes the firſt and ſecond Commandment to be two, <hi>Exod.</hi> 20.3, 4. <hi>Deut.</hi> 5.7, 8. Is there not a manifeſt dif<g ref="char:EOLhyphen"/>ference between them?</p>
+               <p>
+                  <hi>A.</hi> Yes; for the firſt Commandment forbids the <hi>having</hi> and <hi>owning</hi> that for God, which is not God, as did the Worſhippers of <hi>Baal</hi> and <hi>Mo<g ref="char:EOLhyphen"/>loch (a), &amp;c.</hi> But the ſecond Commandment for<g ref="char:EOLhyphen"/>bids the worſhipping of the true God by an Image, as did the <hi>Iſraelites</hi> in the Wilderneſs, and <hi>Jerobo<g ref="char:EOLhyphen"/>am,</hi> when they worſhipped the Golden Calves <hi>(b). (a)</hi> 1 <hi>Kings</hi> 16.31. <hi>Amos</hi> 5.26. <hi>(b) Exod.</hi> 32.1, 4. 1 <hi>Kings</hi> 12.28.</p>
+               <p>
+                  <hi>Q.</hi> What is the Duty required in the ſecond Commandment?</p>
+               <p>
+                  <hi>A.</hi> To give that <hi>Worſhip</hi> to God which is ſuitable to his Nature. Joh. 4.24. <hi>God is a Spirit, and they that worſhip him, muſt worſhip him in Spirit and in Truth.</hi> Rom. 12.1.</p>
+               <p>
+                  <hi>Q.</hi>
+                  <note place="margin">
+                     <hi>Command.</hi> 3.</note> What is the third Commandment?</p>
+               <p>A. <hi>Thou ſhalt not take the Name of the Lord thy God in vain, for the Lord will not hold him guiltieſs that taketh his Name in vain.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How is the Name of God taken <hi>in vain?</hi>
+               </p>
+               <pb n="31" facs="tcp:35478:20"/>
+               <p>
+                  <hi>A.</hi> 1. By perjury or falſe ſwearing. <hi>Levit.</hi> 19.12. <hi>Ye ſhall not ſwear by my Name falſly, neither ſhall thou profane the name of thy God.</hi>
+               </p>
+               <p n="2">2. By raſh and common ſwearing, <hi>Mat.</hi> 5.34, 35, 36. 37. <hi>I ſay unto you, Swear not at all,—but let your communication be yea, yea, nay, nay.</hi>
+               </p>
+               <p n="3">3. By blaſphemy, or ſpeaking reproachfully of God and Religion. 1 <hi>Tim.</hi> 6.1. <hi>That the name of God and his Doctrine be not blaſphemed.</hi> Levit. 24.16.</p>
+               <p n="4">4. By the irreverent uſe of the name of God <hi>(a),</hi> or of things belonging to him <hi>(b)</hi> and his ſervice <hi>(c). (a)</hi> Levit. 21.6. <hi>They ſhall be holy un<g ref="char:EOLhyphen"/>to their God, and not profane the name of their God. (b)</hi> 1 Theſ. 4.8. <hi>He therefore that deſpiſeth, deſpiſeth not man, but God. (c)</hi> Levit. 22.2. <hi>That they pro<g ref="char:EOLhyphen"/>fane not my holy name in thoſe things which they hallow unto me.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the reaſon annexed to this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <p>A. <hi>The Lord will not hold him guiltleſs,</hi> but will moſt certainly puniſh him. <hi>Zech.</hi> 5.3, 4. <hi>The curſe ſhall enter into the houſe of him that ſweareth falſly by my name, &amp;c. and ſhall conſume it.</hi> Levit. 24.15, 16.</p>
+               <p>
+                  <hi>Q.</hi> What is the Duty required in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <p>A. <hi>To honour God's holy Name (a), and Word (b),</hi> ſo as to uſe it with reverence in Oaths <hi>(c),</hi> Vows <hi>(d),</hi> Promiſes, Diſcourſe <hi>(e),</hi> and Worſhip <hi>(f),</hi> and to uſe reverently whatever has a more imme<g ref="char:EOLhyphen"/>diate relation to him and his ſervice. <hi>(a) Pſal.</hi> 99.3. <hi>Let them praiſe thy great and terrible name, for it is holy. (b)</hi> Iſa. 66.2. <hi>To this man will I look, even to him that is poor and of a contrite ſpirit, and trembleth at my word. (c)</hi> Jer. 4.2. <hi>Thou ſhalt ſwear,</hi> As <hi>the Lord liveth, in truth, in judgement and
+<pb n="32" facs="tcp:35478:21"/>righteouſneſs. (d)</hi> Eccl. 5.4. <hi>When thou voweſt a vow unto God, defer not to pay it.</hi> Deut. 23.23. <hi>(e)</hi> Col. 4.6. <hi>Let your ſpeech be alway with grace, ſeaſoned with ſalt.</hi> Mat. 5.37. <hi>(f)</hi> Levit. 10.3. <hi>I will be ſanctified in them that come nigh me.</hi> Iſa. 29.23.</p>
+               <p>
+                  <hi>Q.</hi> What is the Fourth Commandment?</p>
+               <p>A.
+<note place="margin">
+                     <hi>Com<g ref="char:EOLhyphen"/>mand.</hi> 4.</note> 
+                  <hi>Remember that thou keep holy the Sabbath-day. Six days ſhalt thou labour, and do all that thou haſt to do. But the ſeventh day is the Sabbath of the Lord thy God. In it thou ſhalt do no manner of work, thou, nor thy Son, nor thy daugh<g ref="char:EOLhyphen"/>ter, thy man-ſervant, nor thy maid<g ref="char:EOLhyphen"/>ſervant, nor thy cattel, nor the ſtranger that is within thy gates: For in ſix days the Lord made hea<g ref="char:EOLhyphen"/>ven and earth, the ſea, and all that in them is, and reſted the ſe<g ref="char:EOLhyphen"/>venth day: wherefore the Lord bleſ<g ref="char:EOLhyphen"/>ſed the Sabbath-day and hallowed it.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doth the word <hi>Sabbath</hi> ſignifie?</p>
+               <p>
+                  <hi>A.</hi> It ſignifies <hi>Reſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why was the ſeventh day ſo called?</p>
+               <p>
+                  <hi>A.</hi> 1. Becauſe God reſted that day from the work of Creation, which he finiſhed in ſix days, <hi>Gen.</hi> 2.2, 3. <hi>On the ſeventh day God ended his work which he had made, and he reſted on the ſeventh day. And God bleſſed the ſeventh day, and ſanctified it, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What's meant by God's <hi>Hallowing</hi> the ſo<g ref="char:EOLhyphen"/>venth day?</p>
+               <pb n="33" facs="tcp:35478:21"/>
+               <p>
+                  <hi>A.</hi> It's His ſetting it apart for ſacred uſes, <hi>Jer.</hi> 17.24. <hi>Hallow the Sabbath day, to do no work therein.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What were the Sacred Uſes it was ſet a<g ref="char:EOLhyphen"/>part for?</p>
+               <p>
+                  <hi>A.</hi> 1. For the Publick Worſhip of God, <hi>(a)</hi> which conſiſteth in Preaching, Expounding and Reading <hi>(b)</hi> the Word of God, and in Prayer <hi>(c). (a)</hi> Acts 13.42. <hi>The Gentiles beſought, that theſe words might be preached to them the next Sabbath.</hi> Mark 6.2. <hi>(b)</hi> Acts 15.21. <hi>Moſes of old time hath in every city them that preach him, being read in the Synagogues every Sabbath day.</hi> Acts 13.27. <hi>(c)</hi> Acts 16.13. <hi>On the Sabbath day we went out of the city by a River-ſide, where Prayer was wont to be made,</hi> or where there was an Oratory.</p>
+               <p n="2">2. For private Worſhip and Meditation upon the Word and Works of God. <hi>Pſal.</hi> 92. <hi>A Pſalm for the Sabbath day.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What was further required in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <p>
+                  <hi>A.</hi> To reſt from all ſervile and ordinary em<g ref="char:EOLhyphen"/>ployments. <hi>In it thou ſhalt do no manner of work, thou, nor thy ſervant,</hi> &amp;c. Iſa. 58.13. Nehem. 13.15.</p>
+               <p>
+                  <hi>Q.</hi> Why do Chriſtians obſerve the Firſt day of the Week as a Sabbath, and not the Seventh?</p>
+               <p>
+                  <hi>A.</hi> It's in remembrance of Chriſt's Reſurre<g ref="char:EOLhyphen"/>ction from the dead on that day, which was the great confirmation, that all was <hi>ſiniſhed, (a)</hi> which he undertook. <hi>Joh.</hi> 19.30. <hi>He ſaid it is finiſhed: and he bowed his head, and gave up the Ghoſt.</hi> Acts 17.3. <hi>Chriſt muſt needs have riſen,</hi> John 2.22.</p>
+               <p>
+                  <hi>Q.</hi> How is this day to be employed?</p>
+               <p>
+                  <hi>A.</hi> In works of Piety <hi>(a)</hi> and Charity <hi>(b),</hi> in ſerving God, and doing good to others. <hi>(a)</hi> Acts 20.7. <hi>
+                     <g ref="char:V">Ʋ</g>pon the firſt day of the week,
+<pb n="34" facs="tcp:35478:22"/>when the Diſciples came together to break bread. (b)</hi> 1 Cor. 16.2. <hi>
+                     <g ref="char:V">Ʋ</g>pon the firſt day of the week, let every one of you lay by him in ſtore, as God hath pro<g ref="char:EOLhyphen"/>ſpered him</hi> the week before.</p>
+               <p>
+                  <hi>Q.</hi> What doth the ſecond Table concern?</p>
+               <p>
+                  <hi>A.</hi> My duty towards my Neighbour.</p>
+               <p>Q. <hi>What is thy duty towards thy Neighbour?</hi>
+               </p>
+               <p>A. <hi>My duty towards my neigh<g ref="char:EOLhyphen"/>bour, is to love him as my ſelf, and to do to all men, as I would they ſhould do unto me. To love, honour and ſuccour my father and mother. To honour and obey the King, and all that are put in authority under him. To ſubmit my ſelf to all my Gover<g ref="char:EOLhyphen"/>nors, Teachers, ſpiritual Paſtors and Maſters. To order my ſelf lowly and reverently to all my betters. To hurt no body by word or deed. To be true and juſt in all my dealing. To bear no malice nor hatred in my heart. To keep my hands from pick<g ref="char:EOLhyphen"/>ing and ſtealing, and my tongue from evil ſpeaking, lying, and ſlan<g ref="char:EOLhyphen"/>dering. To keep my body in tem<g ref="char:EOLhyphen"/>perance, ſoberneſs and chaſtity. Not to covet nor deſire other mens goods; but to learn and labour truly to get mine own living, and to do my duty
+<pb n="35" facs="tcp:35478:22"/>in that ſtate of life, unto which it ſhall pleaſe God to call me.</hi> Matt. 22.39. <hi>Thou ſhalt love thy neighbour as thy ſelf.</hi> Gal. 5.14. Matt. 7.12. <hi>All things whatſoever ye would that men ſhould do unto you, do ye even ſo to them.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are the Commandments which con<g ref="char:EOLhyphen"/>tain thy duty towards thy Neighbour?</p>
+               <p>
+                  <hi>A.</hi> The laſt ſix.</p>
+               <p>
+                  <hi>Q.</hi> What is the Fifth Commandment?</p>
+               <p>A.
+<note place="margin">Com<g ref="char:EOLhyphen"/>mand. 5.</note> 
+                  <hi>Honour thy Father and Mo<g ref="char:EOLhyphen"/>ther, that thy days may be long in the Land which the Lord thy God giveth thee.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is here to be underſtood by the Terms <hi>Father and Mother?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> More eſpecially I thereby underſtand, 1. My natural Parents, whom I am to <hi>love, honour (a), and ſuccour (b). (a)</hi> Mal. 1.6. <hi>A ſon honoureth his fa<g ref="char:EOLhyphen"/>ther.</hi> Epheſ. 6.1. <hi>Children obey your parents in the Lord; for this is right. (b)</hi> 1 Tim. 5.4. <hi>Let</hi> chil<g ref="char:EOLhyphen"/>dren <hi>learn to ſhew piety,</hi> or Charity <hi>at home, and to re<g ref="char:EOLhyphen"/>quite their parents</hi> care, by ſuccouring them in their neceſſity. <hi>Mark</hi> 7.11, 12</p>
+               <p n="2">2. <hi>The King, and all that are put in authority un<g ref="char:EOLhyphen"/>der him (a),</hi> whom I am to <hi>honour</hi> and <hi>obey (b)</hi> in all lawful and honeſt things. <hi>(a) Iſa.</hi> 49. 23. Kings are call'd <hi>Nurſing-fathers. (b)</hi> 1 Pet. 2.13. <hi>Submit your ſelves to every ordinance of man for the Lord's ſake, whether it be to the King as ſupreme.</hi> verſ. 14. <hi>or unto Governors, as unto them that are ſent by him,</hi> &amp;c.</p>
+               <p n="3">3. <hi>Teachers and Spiritual Paſtors (a),</hi> to whom and whoſe ſpiritual and pious inſtructions I am to
+<pb n="36" facs="tcp:35478:23"/>
+                  <hi>ſubmit (b). (a)</hi> Judg. 17.10. <hi>Thou ſhalt be unto me a Father and a Prieſt.</hi> 1 Cor. 4.15. <hi>(b)</hi> Heb. 13.17. <hi>Obey them that have the rule over you, and ſubmit your ſelves; for they watch for your ſouls,</hi> &amp;c. 1 Tim. 5.17.</p>
+               <p n="4">4. <hi>Maſters</hi> of Families, call'd Fathers, as 2 <hi>Kings</hi> 5.13. and to whom, if a Servant, I am to <hi>ſubmit</hi> in all reaſonable things belonging to that con<g ref="char:EOLhyphen"/>dition. Epheſ. 6.5, 6. <hi>Servants be obedient to them that are your Maſters,</hi> &amp;c. <hi>not with eye-ſervice as men<g ref="char:EOLhyphen"/>pleaſers, but as the ſervants of Chriſt, doing the will of God from the heart.</hi> Tit. 2.9, 10.</p>
+               <p n="5">5. <hi>All my Betters, (a)</hi> to whom I am to <hi>order my ſelf lowly and reverently (b). (a)</hi> Acts 7.2. St. <hi>Stephen</hi> ſaid, <hi>Men, Brethren, and Fathers (b).</hi> 1 Pet. 5.5. <hi>Ye younger ſubmit your ſelves unto the elder; yea, all of you be ſubject one to another, and be clothed with humility,</hi> Levit. 19.32.</p>
+               <p>
+                  <hi>Q.</hi> What encouragement is there for obedience to this Command?</p>
+               <p>
+                  <hi>A.</hi> There is annexed to it the Promiſe of a long and proſperous Life, which ordinarily attends it. <hi>That thy days may be long in the land,</hi> &amp;c. Epheſ. 6.1, 2. <hi>Honour thy father and mother, which is the firſt commandment with promiſe.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Which is the Sixth Commandment?</p>
+               <p>A. <hi>Thou ſhalt do no Murer.</hi>
+                  <note place="margin">Com<g ref="char:EOLhyphen"/>mand. 6.</note>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the ſin forbidden in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <p>
+                  <hi>A.</hi> Murder, or the wilful killing of a man's Neighbour.</p>
+               <p>
+                  <hi>Q.</hi> What are the kinds of that which you call wilful killing of another?</p>
+               <pb n="37" facs="tcp:35478:23"/>
+               <p>
+                  <hi>A.</hi> There are two ſorts: 1. A leſs, which is the killing of another in heat of Blood, uſually called <hi>Man-ſlaughter,</hi> but what the Scripture calls Murder. <hi>Numb.</hi> 35.16, 17, 18. <hi>If he ſmite him with an inſtrument of iron,</hi> &amp;c. <hi>he is a murderer.</hi>
+               </p>
+               <p n="2">2. A greater, which is a contrived and deli<g ref="char:EOLhyphen"/>berate killing of another <hi>(a),</hi> uſually call'd wil<g ref="char:EOLhyphen"/>ful-murder. <hi>(a)</hi> Exod. 21.14. <hi>If a man come pre<g ref="char:EOLhyphen"/>ſumptuouſly upon his neighbour to ſlay him with guile.</hi> Numb. 35.20, 21.</p>
+               <p>
+                  <hi>Q.</hi> What was the puniſhmenr for this ſin?</p>
+               <p>
+                  <hi>A.</hi> Death. Gen. 9.5, 6. <hi>He that ſheddeth mans blood, by man ſhall his blood be ſhed,</hi> Numb. 35.16, 17, 21.</p>
+               <p>
+                  <hi>Q.</hi> What is further forbidden in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <p>
+                  <hi>A. That I hurt no body by word or deed, and bear no malice nor hatred in my heart.</hi> And ſo this Com<g ref="char:EOLhyphen"/>mandment forbids all degrees, incentives and provocations to this ſin, ſuch as cauſeleſs, raſh and immoderate anger <hi>(a);</hi> hatred, <hi>(b)</hi> malice, ſpight and revenge, bitterneſs and reviling <hi>(c). (a)</hi> Matt. 5.21, 22. <hi>Ye have heard that it hath been ſaid by them of old time, thou ſhalt not kill; and who<g ref="char:EOLhyphen"/>ever ſhall kill, ſhall be in danger of the judgment: But I ſay unto you, That whoſoever is angry with his brother without a cauſe,</hi> &amp;c. Eph. 4.26. <hi>(b)</hi> 1 Joh. 3.15. <hi>Whoſoever hateth his brother is a murderer. (c)</hi> Eph. 4.31. <hi>Let all bitterneſs, and wrath, and anger, and cla<g ref="char:EOLhyphen"/>mour and evil ſpeaking, be put away from you, with all malice.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is required in this Commandment?</p>
+               <p>
+                  <hi>A.</hi> 1. Peaceableneſs, not to provoke others. Rom. 12.18. <hi>If it be poſſible, as much as lieth in you, live peaceably with all men.</hi>
+               </p>
+               <p n="2">
+                  <pb n="38" facs="tcp:35478:24"/>2. Meekneſs, not to be provoked to do evil to others. <hi>Rom.</hi> 12.17. <hi>Recompence to no man evil for evil.</hi>
+               </p>
+               <p n="3">3. Charity, or readineſs to forgive, and to do good when provoked. <hi>Rom.</hi> 12.20, 21. <hi>If thine enemy hunger, feed him,</hi> &amp;c.</p>
+               <p n="4">4. Succouring another in danger and diſtreſs, as the good <hi>Samaritan,</hi> Luke 10.33.</p>
+               <p>
+                  <hi>Q.</hi> What is the Seventh Commandment?</p>
+               <p>A.
+<note place="margin">Com<g ref="char:EOLhyphen"/>mand. 7.</note> 
+                  <hi>Thou ſhalt not commit Adul<g ref="char:EOLhyphen"/>tery.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is Adultery?</p>
+               <p>
+                  <hi>A.</hi> It's a violation of that Covenant <hi>(a)</hi> made at Marriage <hi>(b)</hi> between one Man and one Wo<g ref="char:EOLhyphen"/>man <hi>(c),</hi> which makes the Man to be the Huſ<g ref="char:EOLhyphen"/>band of the Woman, and the Woman to be the Wife of the Man. <hi>(a)</hi> Malac. 2.14. <hi>She is the wife of thy covenant. (b)</hi> Heb. 13.4. <hi>Marriage is honourable in all. (c)</hi> Mal. 2.15. <hi>Did not he make one?</hi> Matt. 19.4, 5.</p>
+               <p>
+                  <hi>Q.</hi> When is that Covenant violated?</p>
+               <p>
+                  <hi>A.</hi> When either of them forſakes the others Bed in whole, or in part, for the Bed of another, Prov. 5.20, 21. <hi>Why wilt thou be raviſht with a ſtrange woman, and embrace the boſome of a ſtranger? For the ways of man are before the eyes of the Lord,</hi> &amp;c.</p>
+               <p>
+                  <hi>Q.</hi> What was the puniſhment aſſigned for this ſin under the Law?</p>
+               <p>
+                  <hi>A.</hi> Death. Levit. 20.10. <hi>The adulterer and the adultereſs ſhall ſurely be put to death.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is farther forbidden in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <pb n="39" facs="tcp:35478:24"/>
+               <p>
+                  <hi>A.</hi> 1. Fornication, which is between ſingle perſons <hi>(a);</hi> and all uncleanneſs whatſoever <hi>(b). (a)</hi> Exod. 22.16. <hi>(b)</hi> Gal. 5.19. <hi>The works of the fleſh are manifeſt, which are theſe, adultery, forni<g ref="char:EOLhyphen"/>cation, uncleanneſs, laſciviouſneſs.</hi> 1 Cor. 6.9.</p>
+               <p n="2">2. All ſenſual deſires and inclinations, conſent<g ref="char:EOLhyphen"/>ed to. Matt. 5.28. <hi>Whoſoever looketh on a woman to luſt after her, hath committed adultery with her al<g ref="char:EOLhyphen"/>ready in his heart.</hi>
+               </p>
+               <p n="3">3. All incitements thereunto in Words <hi>(a),</hi> Actions, Behaviour and Garb <hi>(b),</hi> and by exceſs <hi>(c). (a)</hi> Epheſ. 5.4. <hi>Neither filthineſs, nor fooliſh talking, nor jeſting, which are not convenient. (b)</hi> 1 Tim. 2.9. <hi>That women adorn theſelves in modeſt apparel. (c)</hi> 1 Pet. 4.3. <hi>The time paſt of our life may ſuffice us—when we walk'd in laſciviouſneſs, luſts, exceſs of wine,</hi> &amp;c.</p>
+               <p>
+                  <hi>Q.</hi> What is enjoyned in this Commandment?</p>
+               <p>
+                  <hi>A. To keep my body in temperance, ſoberneſs, and chaſtity.</hi> Rom. 13.13, 14. <hi>Let us walk honeſtly as in the day, not in rioting and drunkenneſs, not in cham<g ref="char:EOLhyphen"/>bering and wantonneſs.</hi>
+               </p>
+               <p n="2">2. To be modeſt in my Thoughts <hi>(a),</hi> Words <hi>(b),</hi> and Behaviour <hi>(c). (a) Matt.</hi> 15.19. <hi>(b) Col.</hi> 3.8. <hi>(c) Tit.</hi> 2.3.</p>
+               <p n="3">3. To be watchful <hi>(a),</hi> and employed <hi>(b). (a)</hi> 1 Pet. 5.8. <hi>Be ſober, be vigilant. (b)</hi> Ezek. 16.49, 50. <hi>This was the iniquity of Sodom—abundance of idleneſs—They were haughty, and committed a<g ref="char:EOLhyphen"/>bomination.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the Eighth Commandment?</p>
+               <p>A. <hi>Thou ſhalt not ſteal.</hi>
+                  <note place="margin">Com<g ref="char:EOLhyphen"/>mand. 8.</note>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the <hi>Stealing</hi> forbidden in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <pb n="40" facs="tcp:35478:25"/>
+               <p>
+                  <hi>A.</hi> The taking away, or detaining from ano<g ref="char:EOLhyphen"/>ther that which is his right, by force or fraud. <hi>Levit.</hi> 19.11, 13.</p>
+               <p>
+                  <hi>Q.</hi> What are the kinds of it?</p>
+               <p n="1">1. Stealth, eſpecially ſo called, or ſecret pur<g ref="char:EOLhyphen"/>loyning. Epheſ. 4.28. <hi>Let him that ſtole, ſteal no more.</hi>
+               </p>
+               <p n="2">2. Robbery, or forcible taking away. <hi>Levit.</hi> 19.11, 13. <hi>Ye ſhall not ſtreal—thou ſhalt not de<g ref="char:EOLhyphen"/>fraud thy neighbour, neither rob him.</hi>
+               </p>
+               <p n="3">3. Extortion <hi>(a),</hi> which is a forcible detaining, or taking away upon the pretence of right and due; call'd <hi>unjuſt gain,</hi> Prov. 28.8. <hi>(a)</hi> 1 Cor. 5.11. <hi>Not to keep company. If any man that is call'd a brother,</hi> or Chriſtian, <hi>be an extortioner.</hi>
+               </p>
+               <p n="4">4. Detention of another's Right, as in not pay<g ref="char:EOLhyphen"/>ing juſt debts, when able <hi>(a),</hi> or withholding wages due to hireling <hi>(b). (a)</hi> Pſal. 37.21. <hi>The wicked borroweth, and payeth not again.</hi> Prov. 3.27, 28. <hi>(b)</hi> Jam. 5.4 <hi>Behold thy hire of the labourers— which is of you kept back by fraud, crieth,</hi> &amp;c.</p>
+               <p n="5">5. Fraud in dealings, by falſe weights and meaſures <hi>(a),</hi> and by fair words <hi>(b)</hi> impoſing upon the ignorance or credulity of the buyer. <hi>(a)</hi> Prov. 20.10. <hi>Divers weights and divers meaſures, both of them are alike abomination to the Lord. (b)</hi> Prov. 29.5. <hi>A man that flattereth his neighbour, ſpreadeth a net for his feet.</hi>
+               </p>
+               <p n="6">6. Uncharitableneſs and hardneſs to the poor. Prov. 22.16. <hi>He that oppreſſeth the poor to increaſe his riches, ſhall ſurely come to want.</hi> Iſa. 3.15. <hi>What mean ye that ye grind the faces of the poor?</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are the duties required in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <pb n="41" facs="tcp:35478:25" rendition="simple:additions"/>
+               <p>
+                  <hi>A.</hi> 1. Honeſty and Equity in dealings between man and man. Prov. 16.11. <hi>A juſt weight and balance are the Lords.</hi>
+               </p>
+               <p n="2">2. Reſtitution in caſe of wrong. Ezek. 33.15, 16. <hi>If the wicked reſtore the pledge, give again that he had robbed—none of his ſins that he hath committed, ſhall be mentioned unto him.</hi> Exod. 22.1, &amp;c.</p>
+               <p n="3">3. Charity and Mercifulneſs to others. <hi>Lev.</hi> 19.9. <hi>When ye reap the harveſt of your land, thou ſhalt not wholly reap the corners of thy field, neither ſhalt thou gather the gleanings of thy harveſt,</hi> &amp;c. <hi>thou ſhalt leave them for the poor and ſtranger.</hi>
+               </p>
+               <p>To have a lawful calling and be diligent in it. Epheſ. 4.28. <hi>Let him that ſtole, ſteal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.</hi> 2 Theſ. 3.11, 12.</p>
+               <p>Q. What is the ninth Commandment?</p>
+               <p>A.
+<note place="margin">Com<g ref="char:EOLhyphen"/>mand. 9.</note> 
+                  <hi>Thou ſhalt not bear falſe wit<g ref="char:EOLhyphen"/>neſs againſt thy Neighbour.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the ſin here forbidden?</p>
+               <p>
+                  <hi>A.</hi> The bearing falſe witneſs, and unjuſt ac<g ref="char:EOLhyphen"/>cuſation, whether upon Oath (uſually call'd per<g ref="char:EOLhyphen"/>jury) <hi>(a),</hi> or otherwiſe <hi>(b). (a)</hi> See the third Commandment. <hi>(b)</hi> Luk. 3.14. <hi>Neither accuſe any falſly.</hi> Luk. 19.8.</p>
+               <p>
+                  <hi>Q.</hi> If Perjury was the thing principally forbid<g ref="char:EOLhyphen"/>den in the third Commandment, and again is in like manner here forbidden; what is then the difference, between the third Commandment and the ninth?</p>
+               <p>
+                  <hi>A.</hi> The third Commandment reſpects God, as Swearing is an appeal to him, and perjury an implicit denial of him: But the ninth Command<g ref="char:EOLhyphen"/>ment
+<pb n="42" facs="tcp:35478:26" rendition="simple:additions"/>reſpects man, and ſo perjury is here for<g ref="char:EOLhyphen"/>bidden, as it's [1] intended to the wrong of ano<g ref="char:EOLhyphen"/>ther in body, goods or name. [2] As thereby the end of ſwearing is defeated, which is <hi>for an end of ſtrife,</hi> Heb. 6.16.</p>
+               <p>
+                  <hi>Q.</hi> What is further forbidden in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <p n="1">1. All ſubornation of falſe witneſſes; as it was practiced by <hi>Jezebel</hi> againſt <hi>Naboth,</hi> and by the <hi>Jews</hi> againſt our Saviour <hi>(b). (a)</hi> 1 <hi>King.</hi> 21.10. <hi>(b) Mat.</hi> 26.59.</p>
+               <p n="2">2. <hi>All evil ſpeaking (a), lying (b) and ſlandering (c). (a)</hi> Jam. 1.26. <hi>If any man among you ſeem to be re<g ref="char:EOLhyphen"/>ligious, and bridleth not his tongue,</hi> &amp;c. <hi>this mans religion is in vain. (b)</hi> Epheſ. 4.25. <hi>Putting a<g ref="char:EOLhyphen"/>way lying, ſpeak every man truth with his neighbour; for we are members one of another. (c)</hi> Pſal. 15.1, 3. <hi>Who ſhall abide in thy Tabernacle? he that backbiteth not with his tongue.</hi>
+               </p>
+               <p n="3">3. Raſh judging and cenſuring. <hi>Mat.</hi> 7.1, 2. <hi>Judge not, that ye be not judged,</hi> &amp;c.</p>
+               <p>
+                  <hi>Q.</hi> What are the Duties required in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <p>
+                  <hi>A.</hi> 1. To vindicate our Neighbour when he is wrong'd; as <hi>Nicodemus</hi> did our Saviour, <hi>Joh.</hi> 7.50, 51.</p>
+               <p n="2">2. To judge the moſt charitably of another. 1 <hi>Cor.</hi> 13.5. <hi>Charity thinketh no evil.</hi> Ver. 7. <hi>Be<g ref="char:EOLhyphen"/>lieveth all things, hopeth all things.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi>
+                  <note place="margin">Com<g ref="char:EOLhyphen"/>mand. 10.</note> Which is the Tenth Commandment?</p>
+               <p>A. <hi>Thou ſhalt not covet thy neigh<g ref="char:EOLhyphen"/>bours houſe, thou ſhalt not covet thy neighbours wife, nor his ſervant, nor his maid, nor his or, nor his aſs, nor any thing that is his.</hi>
+               </p>
+               <pb n="43" facs="tcp:35478:26"/>
+               <p>
+                  <hi>Q.</hi> What is the ſin <hi>forbidden</hi> in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <p>
+                  <hi>A.</hi> The coveting of other mens goods or poſ<g ref="char:EOLhyphen"/>ſeſſions, reckon'd up here in order, his houſe, wife, ſervants, and cattel. <hi>Act.</hi> 20.33.</p>
+               <p>
+                  <hi>Q.</hi> What is the <hi>coveting</hi> here forbidden?</p>
+               <p>
+                  <hi>A.</hi> The unlawful deſire of what is anothers. <hi>Rom.</hi> 7.7. <hi>I had not known luſt, except the Law had ſaid, Thou ſhalt not covet.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What then is there included in this Com<g ref="char:EOLhyphen"/>mandment?</p>
+               <p>
+                  <hi>A.</hi> It's the ſum of all the reſt that reſpect my Neighbour; and it's as if it had been ſaid, What<g ref="char:EOLhyphen"/>ever can be ſuppoſed to be to his prejudice, thou ſhalt not do. So our Saviour inſtead of <hi>covet,</hi> doth one while put, <hi>defraud not,</hi> Mark 10.19. another while, <hi>Thou ſhalt love thy neighbour as thy ſelf,</hi> Mat. 19.19.</p>
+               <p>
+                  <hi>Q.</hi> What is required in this Commandment?</p>
+               <p>
+                  <hi>A.</hi> A contentedneſs in my preſent ſtate and condition <hi>(a),</hi> and <hi>to learn and labour truly to get my own living (b), in that ſtate of life whereunto it ſhall pleaſe God to call me (c). (a)</hi> Heb. 13.5. <hi>Let your converſation be without covetouſneſs, and be content with ſuch things as you have,</hi> &amp;c. <hi>Phil.</hi> 4.11. <hi>(b)</hi> 1 Theſ. 4.11, 12. <hi>Study to be quiet and to do your own buſineſs, and to work with your own hands,—that ye may have lack of nothing. (c)</hi> 1 Cor. 7.20. <hi>Let every man abide in the ſame calling wherein he was called.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <pb n="44" facs="tcp:35478:27"/>
+               <head>PART. IV. <hi>Of the Lords Prayer.</hi>
+               </head>
+               <p>Q. <hi>MY good Child, know this, that thou art not able to do theſe things of thy ſelf, nor to walk in the Commandments of God, and to ſerve him, without his ſpecial grace, which thou muſt learn at all times to call for by diligent prayer. Let me hear therefore if thou canſt ſay the Lords Prayer?</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are the things contained in this Pre<g ref="char:EOLhyphen"/>face ſet before the Lord's Prayer, in the Cate<g ref="char:EOLhyphen"/>chiſm?</p>
+               <p>
+                  <hi>A.</hi> Therein is contained,</p>
+               <p n="1">1. The reaſon of all prayer to God, which is an inſufficiency in our ſelves <hi>(a),</hi> and an allſuffi<g ref="char:EOLhyphen"/>ciency in him <hi>(b).</hi> So it's ſaid, <hi>(a) Know this, that thou art not able to do theſe things of thy ſelf without his ſpecial grace (b)</hi> 2 Cor. 3.5. <hi>Not that we are ſufficient of our ſelves to think any thing as of our ſelves, but our ſufficiency is of God.</hi>
+               </p>
+               <p n="2">2. It ſhews us the uſe which prayer is of, as a means for obtaining <hi>the ſpecial grace</hi> of God; con<g ref="char:EOLhyphen"/>tained in theſe words, <hi>which thou muſt learn to call for by prayer.</hi> Luk. 11.9, 10, 11, 12, 13. <hi>Ask and it ſhall be given you; ſeek and ye ſhall find; knock and it ſhall be opened unto you,</hi> &amp;c.</p>
+               <p n="3">3. It teaches me what are the qualifications of a prevalent and effectual prayer, <hi>viz.</hi> [1.] That it be <hi>at all times,</hi> without intermiſſion and diſ<g ref="char:EOLhyphen"/>couragement
+<pb n="45" facs="tcp:35478:27"/>
+                  <hi>(a).</hi> [2.] That it be <hi>diligent,</hi> what is accompanied with a ſtedfaſt faith and attenti<g ref="char:EOLhyphen"/>on <hi>(b). (a)</hi> Luk. 18.1. <hi>Chriſt ſpake a parable unto them, to this end, that men ought always to pray, and not to faint. (b)</hi> Rom. 12.12. <hi>Continuing inſtant in prayer.</hi> Eph. 6.18.</p>
+               <p>
+                  <hi>Q.</hi>
+                  <note place="margin">The <hi>Lords Prayer.</hi>
+                  </note> Why is that Form of Prayer which begins with <hi>Our Father,</hi> call'd <hi>the Lord's Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it was compoſed by our Lord and Saviour Jeſus Chriſt, <hi>Mat.</hi> 6.9. <hi>Luk.</hi> 11.2.</p>
+               <p>
+                  <hi>Q.</hi> For what end did our Saviour compoſe this Prayer?</p>
+               <p>
+                  <hi>A.</hi> 1. As a pattern for our better help and di<g ref="char:EOLhyphen"/>rection what to pray for, and of the order we are to pray in: that we may not be at a loſs what to pray for <hi>(a),</hi> nor uſe vain repetitions <hi>(b). (a)</hi> Luk. 11.1, 2. <hi>His Diſciples ſaid unto him, Lord teach us to pray. And he ſaid unto them, When ye pray, ſay,</hi> &amp;c. <hi>(b)</hi> Mat. 6.7, 8, 9. <hi>When ye pray uſe not vain repetitions, — After this manner therefore pray ye, &amp;c.</hi>
+               </p>
+               <p n="2">2. As a Form that's fit to be uſed, when we pray. <hi>Mat.</hi> 6.9. <hi>After this manner,</hi> or ſo <hi>pray ye.</hi> Luk. 11.2. <hi>When ye pray, ſay, Our Father, &amp;c.</hi>
+               </p>
+               <p>Q. <hi>Say the Lords Prayer.</hi>
+               </p>
+               <p>A. <hi>Our Father,</hi> &amp;c.</p>
+               <p>Q. <hi>What deſireſt thou of God in this Prayer?</hi>
+               </p>
+               <p>A. <hi>I deſire my Lord God our Hea<g ref="char:EOLhyphen"/>venly Father, who is the giver of all goodneſs, to ſend his grace unto me, and to all people, that we may wor<g ref="char:EOLhyphen"/>ſhip him, ſerve him, and obey him
+<pb n="46" facs="tcp:35478:28"/>as we ought to do. And I pray unto God, that he will ſend us all things that be needful both for our ſouls and bodies; and that he will be merci<g ref="char:EOLhyphen"/>ful unto us, and forgive us our ſins; and that it will pleaſe him to ſave and defend us in all dangers ghoſtly and bodily; and that he will keep us from all ſin and wickedneſs, and from our Ghoſtly enemy, and from everlaſting death. And this I truſt he will do of his mercy and goodneſs, through our Lord Ieſus Chriſt. And therefore I ſay, Amen. So be it.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are the general parts which this Prayer doth conſiſt of?</p>
+               <p>
+                  <hi>A.</hi> They are three, <hi>viz.</hi> the Preface, the Pe<g ref="char:EOLhyphen"/>titions, and the Doxology, or Concluſion.</p>
+               <p>
+                  <hi>Q.</hi> What is the Preface, or Compellation?</p>
+               <p>A. <hi>Our father which art in Hea<g ref="char:EOLhyphen"/>ven.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are the things contained in this Pre<g ref="char:EOLhyphen"/>face?</p>
+               <p>
+                  <hi>A.</hi> It contains ſeveral Arguments to encourage us in the performance of this Duty.</p>
+               <p>
+                  <hi>Q.</hi> What are thoſe Arguments?</p>
+               <p>
+                  <hi>A.</hi> 1. As God is a <hi>Father, the giver of all good<g ref="char:EOLhyphen"/>neſs,</hi> and ſo cannot but chuſe and give, and do what is beſt for us. <hi>Luk.</hi> 11.11, 12, 13. <hi>If a ſon ſhall ask bread of any of you that is a Father, will he give him a ſtone,</hi> &amp;c? <hi>If ye then being evil, know how to give good gifts unto your children, how much more
+<pb n="47" facs="tcp:35478:28"/>will your Heavenly Father give the Holy Spirit (good things,</hi> Mat. 7.11.) <hi>to them that ask him?</hi>
+               </p>
+               <p n="2">2. As he is a Father in Heaven, and ſo is able to underſtand, and will, and do what is beſt. <hi>Pſal.</hi> 115.3. <hi>Our God is in the Heavens, he hath done whatſoever he pleaſed.</hi>
+               </p>
+               <p n="3">3. As he is a common Father, and whom all may freely reſort to, 2 <hi>Theſ.</hi> 2.16. <hi>God even our Father, who hath loved us.</hi> Epheſ. 2.18. <hi>Through him we</hi> (both Jews and Gentiles) <hi>have an acceſs by one ſpirit unto the Father.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What do you learn from hence?</p>
+               <p>
+                  <hi>A.</hi> 1. That God alone is the proper object of our prayers, Pſal. 123.1. <hi>
+                     <g ref="char:V">Ʋ</g>nto thee lift I up mine eyes, O thou that dwelleſt in the Heavens.</hi>
+               </p>
+               <p n="2">2. That we ought to approach to him with fear and reverence, Mal. 1.6. <hi>A ſon honoureth his father. If then I be a father, where is mine honour?</hi> Eccleſ. 5.2. <hi>Be not raſh with thy mouth, and let not thine heart be haſty to utter any thing before God; for God is in heaven, and thou upon earth.</hi>
+               </p>
+               <p n="3">3. That we ought to come with a true affecti<g ref="char:EOLhyphen"/>on to all mankind, and with an hearty deſire that they may be as well and happy as our ſelves; which is implied when we ſay, <hi>Our Father;</hi> and therefore I deſire that he will <hi>ſend his grace unto me and to all people.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doth the matter reſpect which is con<g ref="char:EOLhyphen"/>tained in the ſix Petitions of the <hi>Lord's Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The firſt three reſpect Gods glory, and the three laſt our good.</p>
+               <p>
+                  <hi>Q.</hi> What is the firſt Petition?</p>
+               <p>A. <hi>Hallowed be thy Name.</hi>
+                  <note place="margin">
+                     <hi>Petition</hi> 1.</note>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is here meant by the <hi>Name</hi> of God?</p>
+               <pb n="48" facs="tcp:35478:29"/>
+               <p>
+                  <hi>A.</hi> 1. Thereby is ſignified not only the Name of God, but God himſelf. <hi>Pſal.</hi> 44.20. <hi>If we have forgotten the Name of our God, or ſtretched out our hands to a ſtrange god.</hi> Pſal. 20.1.</p>
+               <p n="2">2. The Attributes and Perfections of his Na<g ref="char:EOLhyphen"/>ture, <hi>Exod.</hi> 34.5, 6. <hi>The Lord—proclaimed the Name of the Lord,—The Lord God, merciful and gracious,</hi> &amp;c.</p>
+               <p n="3">3. The things ſet apart for his honour and ſervice, as his Word and Day, <hi>&amp;c. Pſal.</hi> 138.2. <hi>I will worſhip towards thy holy Temple, and praiſe thy Name—for thou haſt magnified thy Word above all thy Name.</hi>
+               </p>
+               <p>Q. What is meant by <hi>Hallowing?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Thereby is meant the ſetting apart any thing for an holy uſe and ſervice: Thus God is ſaid to <hi>Hallow</hi> the ſeventh day, <hi>Exod.</hi> 20.11. and to <hi>Hallow</hi> the Children of Iſrael, <hi>Levit.</hi> 22.32.</p>
+               <p n="2">2. By <hi>Hallowing</hi> is meant the uſing of what is holy after an holy manner: So <hi>Levit.</hi> 22.32. <hi>I will be hallowed among the children of Iſrael.</hi> See <hi>Levit.</hi> 10.3.</p>
+               <p>Q. What then do you pray for in this Petition?</p>
+               <p>
+                  <hi>A.</hi> I pray that God himſelf may be honour'd, known, eſteemed, worſhipped and praiſed <hi>(a),</hi> his Providence may be celebrated, his ſervice re<g ref="char:EOLhyphen"/>ſpected: And eſpecially that I and all others may be the happy inſtruments of doing honour to him, his ſervice and Religion, by a holy and uſeful converſation <hi>(b). (a) Pſal.</hi> 113.2, 3. <hi>Bleſſed be the name of the Lord, from this time forth and for evermore. From the riſing of the Sun to the going down of the ſame the Lords name is to be praiſed. (b)</hi> 1 Cor. 10.31. <hi>Whether—ye eat or drink, or whatſoever ye do, do all to the glory of God.</hi> Mat. 5.16. <hi>Let your
+<pb n="49" facs="tcp:35478:29"/>light ſo ſhine before men, that they may ſee your good works, and glorifie your Father which is in Heaven.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the ſecond Petition?
+<note place="margin">
+                     <hi>Petit.</hi> 2.</note>
+               </p>
+               <p>A. <hi>Thy Kingdom come.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is meant by the <hi>Kingdom</hi> of God?</p>
+               <p>
+                  <hi>A.</hi> That ſtate which is begun by Grace in this world <hi>(a),</hi> and is perfected by Glory in the world to come <hi>(b). (a)</hi> Rom. 6.14. <hi>Ye are not under the Law, but under Grace.</hi> Mat. 21.43. <hi>The Kingdom of God</hi> (or the Goſpel) <hi>ſhall be taken from you,</hi> &amp;c. Mat. 24.14. <hi>(b)</hi> Mat. 13.43. <hi>The righteous ſhall ſhine forth as the Sun in the Kingdom of their Father.</hi> 1 Cor. 15.24.</p>
+               <p>
+                  <hi>Q.</hi> What is ſignified by the <hi>coming</hi> of that Kingdom?</p>
+               <p>
+                  <hi>A.</hi> We therein pray that this Kingdom may ſo <hi>come with power (a),</hi> that it may prevail where it is, and be received where it is not; that the Kingdom of Sin and Satan may be utterly de<g ref="char:EOLhyphen"/>ſtroy'd <hi>(b),</hi> and all <hi>the Kingdoms of this world</hi> may <hi>become the Kingdoms of our Lord, and of his Chriſt,</hi> when <hi>he ſhall reign for ever and ever,</hi> Revel. 11.15. <hi>(a)</hi> Mark 9.1. <hi>(b)</hi> 1 Cor. 15.25. <hi>He muſt reign till he hath put all enemies under his feet.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the third Petition?
+<note place="margin">
+                     <hi>Petit.</hi> 3.</note>
+               </p>
+               <p>A. <hi>Thy will be done in earth, as it is in heaven.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What do you underſtand by the <hi>will</hi> of God, which you pray may be <hi>done on earth?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I therein pray that God will accompliſh in his good time whatever he hath promiſed <hi>(a);</hi> that I and all others may readily obey whatever he requires <hi>(b);</hi> and patiently ſubmit to what<g ref="char:EOLhyphen"/>ever he inflicts <hi>(c). (a)</hi> Ezek. 36.36, 37. <hi>I the
+<pb n="50" facs="tcp:35478:30"/>Lord have ſpoken it, and I will do it.—I will yet for this be enquired of by the houſe of Iſrael to do it for them. (b)</hi> 1 Chron. 28.9. <hi>Serve him with a perfect heart, and with a willing mind. (c)</hi> Act. 21.14. <hi>We ceaſed, ſaying, The will of the Lord be done.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi>
+                  <note place="margin">
+                     <hi>Petit.</hi> 4.</note> What is the fourth Petition?</p>
+               <p>A. <hi>Give us this day our daily bread.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What's meant by <hi>Bread?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All food for ſuſtenance. <hi>Gen.</hi> 43.31, 34. <hi>He ſaid unto them, Set on Bread.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Is not this term <hi>Bread</hi> alſo uſed in a ſpi<g ref="char:EOLhyphen"/>ritual ſenſe?</p>
+               <p>
+                  <hi>A.</hi> Yes: as <hi>Joh.</hi> 6.32. And ſo it's alſo applied in the <hi>Catechiſm,</hi> when we are ſaid to be taught from hence, to <hi>pray unto God, that he will ſend us all things that be needful both for our ſouls and bodies.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is meant by <hi>daily Bread?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That which is every day neceſſary for our ſubſiſtence, and convenient for our comfort. <hi>Prov.</hi> 30.8. <hi>Feed me with food convenient for me.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why do we every day pray, <hi>Give us this day our daily bread?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe we every day depend upon God for the ſupply of what we want, and for the pre<g ref="char:EOLhyphen"/>ſerving, continuing and bleſſing of what we have. <hi>Deut.</hi> 8.3. <hi>Man doth not live by bread only; but by every word that proceedeth out of the mouth of the Lord, doth, man live.</hi> Mat. 4.4. 1 Tim. 4.4.</p>
+               <p>
+                  <hi>Q.</hi> What are you taught from hence?</p>
+               <p>
+                  <hi>A.</hi> 1. To be contented with my preſent porti<g ref="char:EOLhyphen"/>on in the world, which God thinks fit to give me, and I receive from him. <hi>Heb.</hi> 13.5. <hi>Be con<g ref="char:EOLhyphen"/>tent with ſuch things as ye have.</hi>
+               </p>
+               <p n="2">
+                  <pb n="51" facs="tcp:35478:30"/>2. To depend continually upon God, from whom all good doth proceed. <hi>Jam.</hi> 1.17. <hi>Every good gift, and every perfect gift is from above,</hi> &amp;c.</p>
+               <p n="3">3. To have recourſe to him for whatever good I want, and to praiſe him <hi>daily</hi> for whatever I have and receive. <hi>Phil.</hi> 4.6. <hi>In every thing by pray<g ref="char:EOLhyphen"/>er and ſupplication, with thanksgiving, let your requeſts be made known unto God.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the fifth Petition?</p>
+               <p>A. <hi>And forgive us our treſpaſſes,
+<note place="margin">
+                        <hi>Petit.</hi> 5.</note> as we forgive them that treſpaſs a<g ref="char:EOLhyphen"/>gainſt us.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is meant by <hi>Treſpaſſes?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All ſins of what ſort or degree ſoever. <hi>Col.</hi> 2.13. <hi>You being dead in your ſins—hath he quickned together with him, having forgiven you all Treſpoſſes.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is contained in that Branch, <hi>As we forgive them that treſpaſs againſt us?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Therein is ſet forth,</p>
+               <p n="1">1. The excellency of this grace of forgiving others, as a qualification, that where ever it is renders our prayers acceptable to God. <hi>Luk.</hi> 6.37. <hi>Forgive, and ye ſhall be forgiven.</hi>
+               </p>
+               <p n="2">2. The neceſſity of it, as it's a condition with<g ref="char:EOLhyphen"/>out which we ſhall not be forgiven. <hi>Mat.</hi> 6.15. <hi>If ye forgive not men their treſpaſſes, neither will your Fa<g ref="char:EOLhyphen"/>ther forgive your treſpaſſes.</hi>
+               </p>
+               <p n="3">3. The importance of it, as it's an Argument for God to forgive us. <hi>Luk.</hi> 11.4. <hi>Forgive us our ſins, for we alſo forgive every one that is indebted to</hi> (has offended) <hi>us.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the ſixth Petition?</p>
+               <p>A.
+<note place="margin">
+                     <hi>Petit.</hi> 6.</note> 
+                  <hi>And lead us not into temptati<g ref="char:EOLhyphen"/>on, but deliver us from evil.</hi>
+               </p>
+               <pb n="52" facs="tcp:35478:31"/>
+               <p>
+                  <hi>Q.</hi> What is meant by <hi>Temptation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thereby is meant ſuch an occaſion as may try a perſon's integrity and ſtedfaſtneſs of mind, and in the event may be a means of our falling in<g ref="char:EOLhyphen"/>to ſin. <hi>Gen.</hi> 22.1. <hi>God did tempt Abraham.</hi> 2 Chron. 32.31.</p>
+               <p>
+                  <hi>Q.</hi> What do you then pray againſt in this clauſe, <hi>Lead us not into Temptation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I pray that God would not bring or ſuffer me to be brought into ſuch circumſtances as may through the luſt of the fleſh, the love of the world, or inſtigation of the Devil, endanger my innocency here, or ſalvation hereafter. 1 <hi>Cor.</hi> 10.13. <hi>God is faithful, who will not ſuffer you to be tempted above that ye are able,</hi> &amp;c.</p>
+               <p>
+                  <hi>Q.</hi> What is the <hi>Evil</hi> you pray to be delivered from?</p>
+               <p>
+                  <hi>A.</hi> 1. The evil of ſin. <hi>Habac.</hi> 1.13. <hi>Thou art of purer eyes than to behold evil, and canſt not look on iniquity.</hi>
+               </p>
+               <p n="2">2. The evil of affliction and puniſhment. <hi>Jer.</hi> 18.8. <hi>If that Nation—turn from their evil, I will repent of the evil that I thought to do unto them.</hi>
+               </p>
+               <p n="3">3. The evil world <hi>(a),</hi> and all the allurements and terrors of it. <hi>(a) Gal.</hi> 1.4.</p>
+               <p n="4">4. The Devil, <hi>the Tempter</hi> to ſin, <hi>Mat.</hi> 4.3.</p>
+               <p n="5">5. Damnation, which is the wages of it. <hi>Rom.</hi> 6.23. <hi>The wages of ſin is death.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the ſum of what you pray for in this Petition?</p>
+               <p>
+                  <hi>A.</hi> I pray <hi>that it will pleaſe God to ſave and defend me in all dangers ghoſtly and bodily, and that he will keep me from all ſin and wickedneſs, and from my ghoſt<g ref="char:EOLhyphen"/>ly enemy, and from everlaſting death.</hi>
+               </p>
+               <pb n="53" facs="tcp:35478:31"/>
+               <p>
+                  <hi>Q.</hi>
+                  <note place="margin">The <hi>Dox<g ref="char:EOLhyphen"/>ology.</hi>
+                  </note> What is the <hi>Doxology</hi> or Concluſion of the <hi>Lords-Prayer?</hi>
+               </p>
+               <p>A. <hi>For thine is the Kingdom, and the Power, and the Glory, for ever and ever. Amen.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is meant by <hi>Doxology?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It's a ſolemn form of praiſe and thankſ<g ref="char:EOLhyphen"/>giving uſed in the Church of God. 1 <hi>Chron.</hi> 29.11. <hi>Thine, O Lord, is the greatneſs, and the power, and the glory, and the victory, and the Majeſty,</hi> &amp;c.</p>
+               <p>Q. What is contained in this <hi>Doxology?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It contains an acknowledgment</p>
+               <p n="1">1. Of Gods ſupereminent Excellencies, which are the matter of our Adoration and Praiſe. Such are his Dominion over all things (call'd here <hi>the Kingdom</hi>) and his <hi>Power,</hi> by which he ſuſtains and governs them, and ſupplies the wants of all that pray to him. <hi>Thine is the Kingdom and Power.</hi>
+               </p>
+               <p n="2">2. Of the honour and thanks we are to render to him, for whatever we receive, and the end to which they are to be applied. <hi>Thine is the Glory.</hi> 1 Cor. 10.31. <hi>Whatſoever ye do, do all to the Glory of God.</hi>
+               </p>
+               <p n="3">3. That as theſe perfections are perfectly and eminently, originally and inſeparably only in God, ſo it's the perpetual office of the Church, Militant and Triumphant, to aſcribe them to him, <hi>For ever and ever.</hi> 1 Pet. 4.11. <hi>That God in all things may be glorified through Jeſus Chriſt; to whom be praiſe and dominion for ever and ever. Amen.</hi> Revel. 5.13.</p>
+               <p>Q. What doth the word <hi>Amen</hi> ſignifie?</p>
+               <p>
+                  <hi>A.</hi> In the cloſe of a ſentence <hi>Amen</hi> ſignifies conſent and approbation <hi>(a),</hi> wiſhing and deſi<g ref="char:EOLhyphen"/>ring
+<pb n="54" facs="tcp:35478:32"/>
+                  <hi>(b),</hi> truſt and confidence <hi>(c). (a)</hi> 1 Cor. 14.16. <hi>How ſhall he that occupieth the room of the unlear<g ref="char:EOLhyphen"/>ned, ſay Amen, &amp;c? (b)</hi> Jer. 28.6. <hi>Jeremiah ſaid, Amen, the Lord do ſo.</hi> 1 King. 1.36. <hi>(c)</hi> 1 Chron. 16.35, 36. <hi>All the people ſaid, Amen.</hi>
+               </p>
+               <p>Q. What is then the ſenſe of <hi>Amen</hi> here?</p>
+               <p>
+                  <hi>A.</hi> It's to ſay, <hi>I truſt God will do</hi> all that I have pray'd for, <hi>of his mercy and goodneſs, through our Lord Jeſus Chriſt. And therefore I ſay, Amen: So be it.</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>PART. V. <hi>Of the</hi> Sacraments.</head>
+               <p>Q. <hi>HOW many Sacraments hath Chriſt ordained in his Church?</hi>
+                  <note place="margin">The <hi>Sa<g ref="char:EOLhyphen"/>craments.</hi>
+                  </note>
+               </p>
+               <p>A. <hi>Two only as generally neceſſa<g ref="char:EOLhyphen"/>ry to Salvation: that is to ſay, Baptiſm and the Supper of the Lord.</hi>
+               </p>
+               <p>Q. Are theſe two <hi>neceſſary to Salvation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, <hi>generally neceſſary.</hi>
+               </p>
+               <p>Q. Why are they ſaid to be <hi>generally neceſſary?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe no perſons are excepted from the obligation of obſerving them, that are capable, and have an opportunity.</p>
+               <p>Q. How are theſe two <hi>neceſſary?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. As Baptiſm is the way of admiſſion into the Church of Chriſt <hi>(a),</hi> out of which there is no promiſe of Salvation <hi>(b). (a)</hi> Epheſ. 2.12. <hi>Strangers from the Covenants of promiſe, having no
+<pb n="55" facs="tcp:35478:32"/>hope. (b)</hi> Mat. 28.19. <hi>Go ye and teach all Nations, baptizing them, &amp;c.</hi> Joh. 3.5.</p>
+               <p n="2">2. The Lord's-Supper is the Teſtimony of our actual Communion with the Church <hi>(a),</hi> and a means of receiving that grace <hi>(b),</hi> which by Baptiſm we had the promiſe of. <hi>(a)</hi> 1 Cor. 10.17. <hi>We being many are one bread, and one body: for we are all partakers of that one Bread. (b)</hi> Verſ. 16. <hi>The Cup of bleſſing which we bleſs, is it not the Com<g ref="char:EOLhyphen"/>munion</hi> [participation] <hi>of the Blood of Chriſt? The Bread which we break, is it not the Communion of the Body of Chriſt?</hi>
+               </p>
+               <p>Q. Doth the Church of <hi>Rome</hi> allow only two Sacraments, as we do?</p>
+               <p>
+                  <hi>A.</hi> No: for to theſe two they add five more, viz. <hi>Confirmation, Penance, Extreme <g ref="char:V">Ʋ</g>nction, Orders,</hi> and <hi>Matrimony;</hi> and <hi>accurſe</hi> all thoſe that hold there are fewer or more than ſeven Sacraments <hi>truly</hi> and <hi>properly</hi> ſo called.</p>
+               <p>Q. But why are there no more than two Sacra<g ref="char:EOLhyphen"/>ments?</p>
+               <p>
+                  <hi>A.</hi> Becauſe only theſe two have all the proper<g ref="char:EOLhyphen"/>ties belonging to a true and proper Sacrament; and which the other five are defective in.</p>
+               <p>Q. <hi>What meaneſt thou by this word Sacrament?</hi>
+               </p>
+               <p>A. <hi>I mean an outward and vi<g ref="char:EOLhyphen"/>ſible ſign of an inward and ſpiri<g ref="char:EOLhyphen"/>tual grace, given unto us, and or<g ref="char:EOLhyphen"/>dained by Chriſt himſelf, as a means whereby we receive the ſame, and a pledge to aſſure us thereof.</hi>
+               </p>
+               <p>Q. What are the Properties belonging to a true Sacrament?</p>
+               <pb n="56" facs="tcp:35478:33"/>
+               <p>
+                  <hi>A.</hi> 1. That there be <hi>an outward and viſible ſign,</hi> as <hi>water</hi> in Baptiſm, and <hi>Bread and Wine</hi> in the Lord's Supper.</p>
+               <p n="2">2. <hi>An inward and ſpiritual grace,</hi> thereby ſigni<g ref="char:EOLhyphen"/>fied, as the <hi>New birth</hi> by Baptiſm, and <hi>the Body</hi> and <hi>Blood of Chriſt</hi> in the Lord's-Supper.</p>
+               <p n="3">3. A Divine Inſtitution; they are to be <hi>given to us, and to be ordained by Chriſt himſelf.</hi> Mat. 28.19. <hi>Go ye and teach all Nations, Baptizing them in the name of the Father, and of the Son, and of the Holy Ghoſt.</hi> 1 Cor. 11.23. <hi>I have received of the Lord, that which alſo I delivered unto you.</hi>
+               </p>
+               <p n="4">4. They are to be <hi>as a means whereby we receive the ſame</hi> Grace, <hi>and a pledge to aſſure us thereof:</hi> Matt. 26.28. <hi>This is my blood of the New Teſta<g ref="char:EOLhyphen"/>ment</hi> [Covenant] <hi>which is ſhed for many for the remiſſion of ſins.</hi>
+               </p>
+               <p>Q. <hi>How many parts are there in a Sacrament?</hi>
+               </p>
+               <p>A. <hi>Two:</hi> 1. <hi>The outward, viſible Sign; and</hi> 2. <hi>the inward, Spiri<g ref="char:EOLhyphen"/>tual Grace.</hi>
+               </p>
+               <p>Q.
+<note place="margin">Of <hi>Bap<g ref="char:EOLhyphen"/>tiſm.</hi>
+                  </note> 
+                  <hi>What is the outward viſible ſign or form in Baptiſm?</hi>
+               </p>
+               <p>A. <hi>Water, wherein the perſon is Baptized, In the name of the Fa<g ref="char:EOLhyphen"/>ther, and of the Son, and of the Holy Ghoſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is Chriſtian Baptiſm?</p>
+               <p>
+                  <hi>A.</hi> It's a Waſhing (either by ſprinkling <hi>(a),</hi> pouring on Water <hi>(b),</hi> or dipping <hi>(c)</hi> a perſon into it) in the name of the Father, Son and Holy-Ghoſt.
+<pb n="57" facs="tcp:35478:33"/>
+                  <hi>(a) Numb.</hi> 8.7. <hi>Ezek.</hi> 36.25. <hi>Heb.</hi> 10.22. <hi>(b) Mark</hi> 7.4. <hi>(c) Acts</hi> 8.38.</p>
+               <p>Q. <hi>What is the inward and Spi<g ref="char:EOLhyphen"/>ritual Grace,</hi> or the thing ſignified by Baptiſm?</p>
+               <p>A. <hi>A death unto ſin, and a new birth unto righteouſneſs <hi>(a);</hi> for being by nature born in ſin, and the Children of Wrath, we are hereby made the Children of Grace. <hi>(a)</hi>
+                  </hi> Rom. 6.3, 4, 11. <hi>Know ye not that ſo many of us as were baptized into Jeſus Chriſt, were baptized into his death? Therefore we are buried with him by bap<g ref="char:EOLhyphen"/>tiſm into death, that like as Chriſt was raiſed up from the dead by the glory of the Father; even ſo we alſo ſhould walk in newneſs of life.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the ſtate you and all mankind were in before Baptiſm?</p>
+               <p>
+                  <hi>A. We were by nature born in ſin, and children of wrath;</hi> Eph. 2.3. <hi>Ye were by nature children of wrath, even as others.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the ſtate you are now brought into?</p>
+               <p>
+                  <hi>A. We are hereby made the Children of Grace.</hi> Eph. 2.4, 5. <hi>God who is rich in mercy, for his great love wherewith he loved us, even when we were dead in ſins, hath quickned us together with Chriſt (by Grace ye are ſaved).</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How are you made <hi>a Child of Grace by</hi> Baptiſm?</p>
+               <p>
+                  <hi>A.</hi> As I am thereby taken into Covenant with God, and have a title to the Grace and Bleſſings of that Covenant, which my Baptiſm is the means and pledge of. 1 John 3.2. <hi>Now are we the ſons
+<pb n="58" facs="tcp:35478:34"/>of God.</hi> Acts 2.38, 39. <hi>Then Peter ſaid, Repent and be baptized every one of you, in the name of Jeſus Chriſt, for the remiſſion of ſins, and ye ſhall receive the gift of the Holy Ghoſt. For the promiſe is unto you, and to your Children, and to all that are afar off, even as many as the Lord our God ſhall call.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Is Baptiſm alone ſufficient to Salvation?</p>
+               <p>
+                  <hi>A.</hi> No; not alone without the <hi>new birth</hi> thereby ſignified, without <hi>we are dead unto ſin, and alive unto God through Jeſus Chriſt,</hi> Rom. 6.3, 4, 11.</p>
+               <p>Q <hi>What is required of perſons to be Baptized?</hi>
+               </p>
+               <p>A. <hi>Repentance <hi>(a),</hi> whereby they forſake ſin; and Faith <hi>(b),</hi> whereby they ſtedfaſtly believe</hi> all that is revealed by Chriſt, and particularly <hi>the Promiſes of God made to them in that Sacrament. <hi>(a)</hi>
+                  </hi> Acts 2.38, 41. <hi>Repent and be baptized every one of you in the name of Jeſus Chriſt, for the remiſſion of ſins,</hi> &amp;c. <hi>(b)</hi> Acts 8.37. <hi>If thou believeſt with all thine heart, thou mayeſt</hi> be Baptized.</p>
+               <p>Q. <hi>Why then are Infants Bapti<g ref="char:EOLhyphen"/>zed, when by reaſon of their tender age they cannot perform them?</hi>
+               </p>
+               <p>A. <hi>Becauſe they promiſe them both</hi> [Repentance and Faith] <hi>by their Sure<g ref="char:EOLhyphen"/>ties, which promiſe when they come to age, themſelves are bound to per<g ref="char:EOLhyphen"/>form.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Can Children be obliged where they do not actually conſent?</p>
+               <pb n="59" facs="tcp:35478:34"/>
+               <p>
+                  <hi>A.</hi> Yes; it was ſo under the Law <hi>(a),</hi> when Children were taken into Covenant, and were cir<g ref="char:EOLhyphen"/>cumcis'd at eight days old <hi>(b),</hi> and thencefor<g ref="char:EOLhyphen"/>ward were accounted God's Children <hi>(c). (a)</hi> Deut. 29.10, 11, 12. <hi>Ye ſtand this day all of you before the Lord; your captains of your tribes—your little ones— That thou ſhouldſt enter into covenant with the Lord. (b)</hi> Gen. 17.12, 13, 14. <hi>(c)</hi> Ezek. 16.20, 21. <hi>Thou haſt ſlain my children, and deliver'd them, to cauſe them to paſs through the fire</hi> to Moloch.</p>
+               <p>
+                  <hi>Q.</hi> What warrant is there for the Baptiſm of Infants, though born of Chriſtian Parents?</p>
+               <p>
+                  <hi>A.</hi> The ſame that is for grown perſons born of Chriſtian Parents; and that is becauſe the Cove<g ref="char:EOLhyphen"/>nant belongs to them. Acts 2.39. <hi>The promiſe is unto you, and to your children.</hi> 1 Cor. 7.14. <hi>Elſe were your children unclean; but now</hi> (as born of believing Parents) <hi>are they holy.</hi>
+               </p>
+               <p>Q.
+<note place="margin">The <hi>Lord's Supper.</hi>
+                  </note> 
+                  <hi>Why was the Sacrament of the Lord's Supper ordained?</hi>
+               </p>
+               <p>A. <hi>For the continual remem<g ref="char:EOLhyphen"/>brance of the Sacrifice of the death of Chriſt, and of the benefits which we receive thereby.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why is this Sacrament called <hi>the Lord's Supper?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It's called <hi>the Lord's Supper (a),</hi> as it was ordained by our Lord at Supper <hi>(b),</hi> immediately before his death. <hi>(a)</hi> 1 Cor. 11.20. <hi>This is not to eat the Lord's Supper. (b)</hi> Matt. 26.26.</p>
+               <p>
+                  <hi>Q.</hi> For what end did our Lord ordain it?</p>
+               <p>
+                  <hi>A.</hi> 1. As a Sign and Repreſentation of <hi>the Sa<g ref="char:EOLhyphen"/>crifice of his Death,</hi> and a means to keep up the remembrance of it <hi>(a).</hi>
+               </p>
+               <p n="2">
+                  <pb n="60" facs="tcp:35478:35"/>2. As a <hi>means</hi> to conveigh, and a <hi>pledge</hi> to aſ<g ref="char:EOLhyphen"/>ſure us of the benefits we receive thereby <hi>(b).</hi>
+               </p>
+               <p>
+                  <hi>(a)</hi> 1 Cor. 11.24. <hi>Take, eat, this is my body,</hi> &amp;c. <hi>this do in remembrance of me. (b)</hi> Matt. 26.28. <hi>This</hi> [Wine] <hi>is my blood of the new teſtament which is ſhed for many for the remiſſion of ſins.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why is Chriſt's Death called a <hi>Sacrifice?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It's call'd a Sacrifice <hi>(a),</hi> becauſe he was a Sacrifice for ſin <hi>(b). (a)</hi> Heb. 9.26. <hi>He put a<g ref="char:EOLhyphen"/>way ſin by the ſacrifice of himſelf. (b)</hi> 2 Cor. 5.21. <hi>He hath made him to be ſin</hi> [a Sin-offering] <hi>for us, who knew no ſin.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How long is this Ordinance to continue?</p>
+               <p>
+                  <hi>A.</hi> It's for the <hi>continual remembrance of</hi> his death, till he come. 1 Cor. 11.26. <hi>As often as ye eat this bread, and drink this cup, ye do ſhew the Lord's death till he come.</hi> Acts 1.11.</p>
+               <p>Q. <hi>What is the outward part or ſign of the Lord's Supper?</hi>
+               </p>
+               <p>A. <hi>Bread and Wine, which the Lord hath commanded to be received.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Are both the Elements, <hi>Bread</hi> and <hi>Wine,</hi> to be equally uſed?</p>
+               <p>
+                  <hi>A.</hi> Yes; for <hi>the Lord commanded both to be re<g ref="char:EOLhyphen"/>ceived.</hi> 1 Cor. 11.23, 24. <hi>I received of the Lord— That the Lord Jeſus the ſame night in which he was be<g ref="char:EOLhyphen"/>trayed, took bread,</hi> &amp;c. <hi>After the ſame manner alſo he took the Cup,</hi> &amp;c.</p>
+               <p>Q <hi>What is the inward part, or thing ſignified?</hi>
+               </p>
+               <p>A. <hi>The Body and Blood of Chriſt, which are verily and indeed taken and received by the faithful in the Lord's Supper.</hi>
+               </p>
+               <pb n="61" facs="tcp:35478:35"/>
+               <p>
+                  <hi>Q.</hi> Are the Bread and Wine changed after con<g ref="char:EOLhyphen"/>ſecration?</p>
+               <p>
+                  <hi>A.</hi> Not otherwiſe than in their uſe; for they remain the ſame in Nature and Subſtance, as be<g ref="char:EOLhyphen"/>fore. So it's thrice called <hi>Bread,</hi> 1 Cor. 11.26, 27, 28.</p>
+               <p>
+                  <hi>Q.</hi> What is the <hi>Body and blood of Chriſt, which are</hi> ſaid to be <hi>verily and indeed taken and received by the faithful?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Negatively, It's not the natural Body and Blood of Chriſt, 1. Becauſe the <hi>Catechiſm</hi> ſaith, <hi>the inward part or thing ſignified</hi> by the Bread and Wine in the Sacrament, <hi>is the Body and Blood of Chriſt:</hi> and ſo the Bread and Wine are the Signs of that Body and Blood, and not the very natural Body and Blood. 2. Becauſe it's ſaid, <hi>the Body and Blood of Chriſt are verily and indeed taken and received therein by the faithful;</hi> in oppoſition to Unbelievers, who (as our Article 29th ſaith) <hi>Eat not the Body of Chriſt in the Lord's Supper.</hi>
+               </p>
+               <p n="2">2. I anſwer poſitively, That by <hi>the Body and Blood of Chriſt</hi> is meant Chriſt himſelf, who ſuf<g ref="char:EOLhyphen"/>fer'd in his Body, and ſhed his Blood for us. John 6.53, 54, 55, 56. <hi>Except ye eat the fleſh of the ſon of man, and drink his blood, ye have no life in you,</hi> &amp;c. His <hi>Fleſh and Blood,</hi> That is himſelf, as it immediately follows, v. 57. <hi>He that eateth me, even he ſhall live by me.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How is the Body and Blood of Chriſt <hi>verily and indeed taken and received by the faithful in the Lord's Supper?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Faithful do receive Chriſt (who thus ſuffered in his Body, and ſhed his Blood) by Faith. As the <hi>Fleſh</hi> and <hi>Blood</hi> of Chriſt are Chriſt him<g ref="char:EOLhyphen"/>ſelf, ſo <hi>Eating</hi> and <hi>Receiving</hi> are the ſame with <hi>Be<g ref="char:EOLhyphen"/>lieving.</hi>
+                  <pb n="62" facs="tcp:35478:36"/>John 6.35. <hi>I am the bread of life: he that cometh to me ſhall never hunger; and he that believeth on me ſhall never thirſt.</hi> Ver. 51. <hi>If any man eat of this bread, he ſhall live for ever.</hi> Verſ. 54. <hi>Who ſo eateth my fleſh,</hi> &amp;c. ver. 56, 57.</p>
+               <p>
+                  <hi>Q.</hi> Are the <hi>Benefits</hi> we receive by Chriſt another thing than his <hi>Fleſh</hi> and <hi>Blood?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; They differ as much as Chriſt him<g ref="char:EOLhyphen"/>ſelf doth from the Benefits he hath purchaſed for us.</p>
+               <p>Q. <hi>What are the Benefits where<g ref="char:EOLhyphen"/>of we are partakers thereby?</hi>
+               </p>
+               <p>A. <hi>The ſtrengthning and refreſh<g ref="char:EOLhyphen"/>ing of our Souls, by the Body and Blood of Chriſt, as our Bodies are by the Bread and Wine?</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How are our Souls <hi>ſtrengthned and refreſhed by the Body and Blood of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Our Souls are <hi>ſtrengthned and refreſhed</hi> in the Lord's Supper, by our belief in Chriſt, that ſuffer<g ref="char:EOLhyphen"/>ed in his Body, and ſhed his Blood for us <hi>(a),</hi> which is more eſpecially exhibited and ſet forth in this Ordinance <hi>(b). (a)</hi> John 6.35. <hi>Jeſus ſaid, I am the bread of life: he that cometh to me ſhall never hunger; and he that believeth on me ſhall never thirſt.</hi> Verſ. 51. <hi>I am the living bread which came down from heaven: If any man eat of this bread, he ſhall live for ever. And the bread that I will give is my fleſh, which I will give for the life of the world. (b)</hi> 1 Cor. 10.16. <hi>The cup of bleſſing which we bleſs, is it not the Communion,</hi> or participation <hi>of the blood of Chriſt? The bread which we break, is it not the com<g ref="char:EOLhyphen"/>munion of the body of Chriſt?</hi>
+               </p>
+               <pb n="63" facs="tcp:35478:36"/>
+               <p>Q. <hi>What is required of them who come to the Lord's Supper?</hi>
+               </p>
+               <p>A. 1. <hi>To examine themſelves <hi>(a),</hi> whether they repent them truly of their former ſins <hi>(b),</hi> ſtedfaſtly pur<g ref="char:EOLhyphen"/>poſing to lead a new life <hi>(c).</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>(a)</hi> 1 Cor. 11.28. <hi>Let a man examine himſelf, and ſo let him eat of that bread,</hi> &amp;c. <hi>(b)</hi> 1 Cor. 11.20, 21. <hi>This is not to eat the Lord's Supper. For in eating</hi> [at their Love-Feaſts, before the Communi<g ref="char:EOLhyphen"/>on] <hi>one is hungry and another is drunken.</hi> Verſ. 31. <hi>If we would judge our ſelves, we ſhould not be judged. (c)</hi> Iſa. 1.16, 17, 18. <hi>Waſh ye, make you clean, put away the evil of your doings from before mine eyes, ceaſe to do evil, learn to do well, &amp;c. Come now and let us reaſon together, ſaith the Lord, &amp;c.</hi>
+               </p>
+               <p n="2">2. <hi>To have a lively Faith in Gods mercy through Chriſt.</hi>
+               </p>
+               <p>Act. 26.18. <hi>That they may receive forgiveneſs of ſins—by faith that is in me.</hi> Act. 4.12. <hi>Nei<g ref="char:EOLhyphen"/>ther is there Salvation in any other; for there is none other name under heaven given among men, whereby we muſt be ſaved.</hi> 1 Cor. 11.29. <hi>He that eateth and drinketh unworthily, eateth and drinketh damnation to himſelf, not diſcerning the Lord's body.</hi>
+               </p>
+               <p n="3">3. <hi>With a thankful remembrance of his Death.</hi>
+               </p>
+               <p>1 Cor. 11.26. <hi>For as often as ye eat this bread, and drink this cup, ye do ſhew</hi> forth <hi>the Lord's death till he come.</hi> 1 Cor. 6.19, 20.</p>
+               <p n="4">4. <hi>And to be in Charity with all men.</hi>
+               </p>
+               <pb n="64" facs="tcp:35478:37" rendition="simple:additions"/>
+               <p>1 Cor. 10.17. <hi>We being many are one bread, and one body: for we are all partakers of that one bread.</hi> Epheſ. 5.2. <hi>Walk in love, as Chriſt alſo hath loved us, and hath given himſelf for us, an offering and a ſacrifice to God.</hi> Matt. 5.23, 24. <hi>If thou bring thy gift to the altar, and there remembreſt that thy brother hath ought againſt thee; Leave there thy gift before the altar, and go thy way, firſt be reconciled to thy brother</hi> [whom thou haſt wrong'd or offended] <hi>and then come and offer thy gift.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>The young Reader is to take notice, that the Letters <hi>(a) (b) (c) (d)</hi> refer to the Scriptures that follow, and which are to prove every point ſo marked.</p>
+            <pb facs="tcp:35478:37"/>
+         </div>
+      </back>
+   </text>
+</TEI>
